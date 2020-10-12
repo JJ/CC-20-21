@@ -14,4 +14,4 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-[Ejercicios Arquitectura de software](https://github.com/CharlySM/Ejericios_CC-20-21/tree/main/Arquitecturas%20software%20para%20la%20nube)
+[Ejercicios Arquitectura de software](https://github.com/CharlySM/Ejericios_CC-20-21/tree/main/Arquitecturas%20software%20para%20la%20nube) 
