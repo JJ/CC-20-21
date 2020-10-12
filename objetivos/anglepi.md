@@ -10,6 +10,6 @@
 - [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
-- [ ] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
+- [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
 [Ejercicios Tema 1](https://github.com/Anglepi/EjerciciosCC/tree/main/Tema1)
