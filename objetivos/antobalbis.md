@@ -1,6 +1,5 @@
 # Objetivos Antonio Balbís
 ## Objetivos de la primera semana
-
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura. Se puede asistir a este taller de la DEIIT esta misma tarde.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
