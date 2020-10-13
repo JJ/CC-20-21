@@ -14,4 +14,5 @@
 11. [X] Aprender a instalar software libre en Linux.
 12. [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 13. [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
 [Ejercicios tema 1](https://github.com/Nastard/EjerciciosCC/tree/main/Ejercicios%20Hito0)
