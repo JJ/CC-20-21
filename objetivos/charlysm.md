@@ -1,5 +1,5 @@
 # Objetivos de la semana 1
- 
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura. Se puede asistir a este taller de la DEIIT esta misma tarde.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
@@ -12,6 +12,6 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
 
 [Ejercicios Arquitectura de software](https://github.com/CharlySM/Ejericios_CC-20-21/tree/main/Arquitecturas%20software%20para%20la%20nube)
