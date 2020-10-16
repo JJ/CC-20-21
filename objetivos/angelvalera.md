@@ -1,4 +1,7 @@
-# Objetivos de la primera semana
+# Objetivos
+
+## Objetivos de la primera semana
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
@@ -11,21 +14,12 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
 
-[ejercicio 01](https://github.com/ouank/CC-ejercicios/blob/master/ej-01.md)
+## Otros objetivos
 
-# Objetivos de la segunda semana
-- [] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [] Entender las características de las aplicaciones que se despliegan en la nube.
-- [] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
-- [] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-- [] Entender lo necesario para entregar el hito 0 del proyecto.
-- [] Entender correctamente la dinámica de la asignatura.
-- [] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
-- [] Entender cómo se plantea un proyecto en informática. 
-- [] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
-- [ ] Entender el concepto de domain driven design.
-- [] Entender arquitecturas de paso de mensajes.
+- [x] Pasar los test al hacer un [Pull Request](https://github.com/JJ/CC-20-21/pull/80) de este fichero.
 
-[ejercicio 02](https://github.com/ouank/CC-ejercicios/blob/master/ej-02.md)
+## Actividades
+
+[Ejercicios tema 1](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema1.md)

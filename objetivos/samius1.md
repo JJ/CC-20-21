@@ -11,21 +11,8 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Arreglar el fichero de objetivos en la PR [77](https://github.com/JJ/CC-20-21/pull/77).
 
-[ejercicio 01](https://github.com/ouank/CC-ejercicios/blob/master/ej-01.md)
-
-# Objetivos de la segunda semana
-- [] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [] Entender las características de las aplicaciones que se despliegan en la nube.
-- [] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
-- [] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-- [] Entender lo necesario para entregar el hito 0 del proyecto.
-- [] Entender correctamente la dinámica de la asignatura.
-- [] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
-- [] Entender cómo se plantea un proyecto en informática. 
-- [] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
-- [ ] Entender el concepto de domain driven design.
-- [] Entender arquitecturas de paso de mensajes.
-
-[ejercicio 02](https://github.com/ouank/CC-ejercicios/blob/master/ej-02.md)
+[Ejercicios tema 1](https://github.com/Samius1/CC2021-Exercises/blob/main/exercises/Week00_CloudSoftwareArchitecture.md)
+[Configuración de GitHub inicial](https://github.com/Samius1/CC2021-Project/blob/main/docs/firstSteps.md)
