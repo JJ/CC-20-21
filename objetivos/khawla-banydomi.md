@@ -20,6 +20,4 @@
 - [x] Know where you can get free cloud resources to use in the subject.
 
 
-
-
-[CC Exercises Repository ](https://github.com/khawla-banydomi/CC-exercises-repo/tree/main/exercises-first-week)
++ [Cloud Computing Exercises Repository ](https://github.com/khawla-banydomi/CC-exercises-repo)
