@@ -44,7 +44,7 @@
 
 ### Otros objetivos
 
-- [ ] Durante esta semana, se tendrá que entregar el hito 1 (27 de octubre).
+- [X] Durante esta semana, se tendrá que entregar el hito 1 (27 de octubre).
 - [ ] Recomendación a los recién llegados: comenzar con los objetivos de la asignatura, empezando por los de la primera semana.
 - [ ] Hacer un ejercicio práctico de domain driven design.
 - [X] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
@@ -61,10 +61,12 @@
 
 ### Otros objetivos
 
-- [ ] Entender los errores comunes en el hito 1.
+- [X] Entender los errores comunes en el hito 1.
   - [X] No enlazar la clase que se ha programado
   - [X] La clase no tiene que tener todos los getters y setters...
   - [X] ... y tienen que enlazar las HU.
   - [ ] La planificación tiene que ser explícita, no cada elemento por separado.
 - [X] Entender la importancia de los flujos de trabajo en el desarrollo de software.
 - [X] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Entrega hito 1](https://github.com/JJ/CC-20-21/pull/238)
