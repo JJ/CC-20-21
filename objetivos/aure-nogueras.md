@@ -45,3 +45,30 @@
 
 [Ejercicios del tema 2](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema2/ejercicios_tema2.md)
 
+# Objetivos de la cuarta (27 de octubre de 2020) y la quinta semana (3 de noviembre de 2020)
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cuál es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+### Otros objetivos
+
+- [x] Entender los errores comunes en el hito 1:
+	- No enlazar la clase que se ha programado
+	- La clase no tiene que tener todos los getters y setters...
+	... y tienen que enlazar las HU.
+	- La planificación tiene que ser explícita, no cada elemento por separado.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [x] Instalar docker y/o podman/buildah.
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+- [x] Comprender las claves del éxito de Docker.
+	- [x] Entender qué son los registros de contenedores como Docker Hub y cómo usarlos.
+- [x] Entender los errores comunes en el hito 1, como se vieron en la clase práctica. Adicionalmente:
+	- Uno no debe añadir a una clase o módulo lo que se ocurra "inspirado" por lo que pone en una HU. Por ejemplo, si no hay ninguna HU que diga que se puede borrar algo, no se puede añadir una función para hacerlo. Las clases en conjunto no son lo que se debe añadir refiriendo a las HU, es la funcionalidad específica.
+	- Si las clases son sólo contenedores de datos y eso resuelve tu problema, tu problema no necesita una aplicación, necesita una base de datos. Vuelve a pensar el problema, porque las clases son código, deben hacer algo.
+	- Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesario para entenderlo.
+
+[Ejercicios del tema 3](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3.md)
+

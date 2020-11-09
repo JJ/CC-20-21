@@ -30,4 +30,25 @@
 [Autoevaluación 2](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema2/tema2.md)
 
 
+## Objetivos a cubrir en la cuarta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Errores de mi Hito 1](https://github.com/pabloalfaro/Car-finder/milestone/2)
+
+## Objetivos a cubrir en la quinta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+- [x] Instalar docker y/o podman/buildah.
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+- [x] Comprender las claves del éxito de Docker
+
 [Autoevaluación 3](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema3/tema3.md)

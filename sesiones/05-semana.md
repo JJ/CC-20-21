@@ -9,7 +9,7 @@
    pueden implementar en los diferentes lenguajes de programación.
 5. Entender los casos de uso de los contenedores y su importancia en
    la computación nube actual.
-   
+
 ## Otros objetivos
 * Ponerse al día quien se haya incorporado tarde. Empezar con
   familiarizarse en profundidad con git y GitHub, y a continuación el
@@ -28,9 +28,7 @@
     ninguna HU que diga que se puede borrar algo, no se puede añadir
     una función para hacerlo. Las clases en conjunto no son lo que se
     debe añadir refiriendo a las HU, es la funcionalidad específica.
-        * Por
-          ejemplo,
-          [en este caso](https://github.com/Jumacasni/Terrake/blob/main/src/controlador.go) se
+    * Por ejemplo,  [en este caso](https://github.com/Jumacasni/Terrake/blob/main/src/controlador.go) se
           deberían haber creado issues específicos para las
           funcionalidades que se han añadido, y no ponerse lo de
           borrar. Realmente no parece que haya ninguna relación entre
@@ -51,6 +49,15 @@
 * Recordatorio: el fichero README.md corresponde a la etapa actual de
   desarrollo del proyecto, y debe incluir un apartado para fácil
   acceso a la lectura de las rúbricas.
+
+## Prácticas 4 de noviembre de 2020
+
+* Entender claramente el concepto de hito.
+* Entender claramente qué es el concepto de historia de usuario.
+* Entender qué es un commit y para qué sirve.
+* Entender qué es un issue y para qué sirve.
+* Entender qué es una entidad en el contexto de *domain driven design* y en qué se diferencian de objetos valor.
+* Entender qué implicar resolver un problema más allá de poder almacenar, buscar y recuperar cosas.
 
 ## Material para la clase
 
