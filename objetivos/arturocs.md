@@ -111,3 +111,5 @@
 - [ ] Entender qué son los registros de contenedores como Docker Hub y cómo usarlos.
 
 - [x] Entender los errores comunes en el hito 1
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC)
