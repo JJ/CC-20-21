@@ -59,3 +59,10 @@
 - [x] Realizar un reenvío con las correcciones del hito 1.
 
 [Ejercicios tema 3](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%203/Ejercicios.md)
+
+## Objetivos de la quinta semana
+
+- [x] Aprender sobre docker e interiorizarlo.
+- [x] Realizar un reenvío con las correcciones del hito 2.
+
+[Ejercicios tema 4 (próximamente)](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%204/Ejercicios.md)
