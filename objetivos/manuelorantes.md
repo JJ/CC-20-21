@@ -54,3 +54,8 @@
 
 [Ejercicios semana 4](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana4.md)
 
+## Objetivos de la semana 5
+
+- [x] Instalar docker.
+- [x]  Entender los errores comunes en el hito 1. Aquí esta el [PR](https://github.com/JJ/CC-20-21/pull/299) del reenvio.
+

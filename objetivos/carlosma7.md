@@ -45,4 +45,23 @@
   
 [Ejercicios tema 2](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema_2.md)
 
+# Objetivos de la cuarta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito 1.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+# Objetivos de la quinta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+[Ejercicios tema 3](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema3.md)
+
+
 

@@ -40,3 +40,17 @@
     4. Pendiente
     5. Hecho. Falta documentar y enlazar. 
 - [x] Modificar plantilla del PR para que pase los tests
+
+## Semana 4
+
+- [x] Documentadas actividades Tema 2: https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema2.md
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Comienzo del hito 2. Desarrollo basado en pruebas.
+
+## Semana 5
+
+- [x] Se sigue con el desarrollo del hito 2.
+- [x] Elegidas bibliotecas de aserciones y marcos de prueba óptimos para mi proyecto.
+- [x] Encontrar la forma de ejecutar tareas en **sbt**. <- Herramienta bastante potente hay que decir.

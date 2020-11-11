@@ -2,7 +2,7 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 
 
 * [Ejercicios del tema de desarrollo arquitecturas software](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Arquitecturas_software.md)
-* [Ejercicios del tema de desarrollo basado en pruebas](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Desarrollo_basado_en_pruebas.md)
+* [Ejercicios del tema de desarrollo basado en pruebas ](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Desarrollo_basado_en_pruebas.md)
 
 # Primera Semana
 
@@ -29,7 +29,7 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.    
 
 # Tercera Semana
-- [] Hacer un ejercicio práctico de domain driven design.
+- [ ] Hacer un ejercicio práctico de domain driven design.
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué
   hay que usar siempre [gestores de versiones](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier lenguaje de desarrollo.
 - [x] Entender los conceptos fundamentales de [desarrollo basado en
@@ -38,5 +38,18 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 
 # Cuarta Semana
 - [x] Entender las claves del desarrollo basado en pruebas.
-- [] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-- [] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación
+
+# Quinta Semana
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+- [ ] Instalar docker y/o podman/buildah.
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+- [x] Entender claramente el concepto de hito.
+- [x] Entender claramente qué es el concepto de historia de usuario.
+- [x] Entender qué es un commit y para qué sirve.
+- [x] Entender qué es un issue y para qué sirve.
+- [x] Entender qué es una entidad en el contexto de domain driven design y en qué se diferencian de objetos valor.
+- [ ] Entender qué implicar resolver un problema más allá de poder almacenar, buscar y recuperar cosas.
+ 
+# Sexta Semana

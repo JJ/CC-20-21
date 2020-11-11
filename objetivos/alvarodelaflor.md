@@ -57,8 +57,16 @@
 - [x] Comprender como realizar un plan de proyecto.
 - [x] Comprender como redactar historias de usuario.
 
-[Ejercicios tema 3](https://github.com/alvarodelaflor/CC-Ejercicios) Aún por realizar
 
 Correcciones principales del hito 1:
 - [Nueva redacción de las historias de usuario](https://github.com/alvarodelaflor/CoronaAlert/issues).
 - [Nuevo plan de proyecto](https://github.com/alvarodelaflor/CoronaAlert/blob/master/Documentation/project_plan.md).
+
+# Objetivos de la quinta semana semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+[Ejercicios tema 3](https://github.com/alvarodelaflor/CC-Ejercicios/tree/main/Tema%203:%20Contenedores%20y%20c%C3%B3mo%20usarlos)

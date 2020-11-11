@@ -41,9 +41,18 @@
 
 ## Cuarta semana
 
-- [ ] Entender las claves del desarrollo basado en pruebas.
-- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-- [ ] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
 - [x] Entender los errores comunes en el hito 1.
-- [ ] Entender la importancia de los flujos de trabajo en el desarrollo de software.
-- [ ] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+## Quinta semana
+
+- [x] Instalar docker y/o podman/buildah.
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+- [x] Comprender las claves del éxito de Docker.
+- [x] Volver a entender los errores comunes en el hito 1.
+
+[Ejercicios Tema 3](https://github.com/harvestcore/CCExercises/blob/master/exercises/using_containers/using_containers.md)

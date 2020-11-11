@@ -57,7 +57,7 @@ EOC
   is( $objetivos_actualizados, "",
        "Fichero de objetivos $este_fichero está actualizado")
     or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
-  
+
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
@@ -88,8 +88,15 @@ EOC
     }
   }
 
+  if ( $this_hito >= 2 ) {
+    doing("hito 2");
+    for my $f (qw(test fichero_tareas)) {
+      file_present( $cc->{$f}, \@repo_files, " de $f" );
+    }
+    ok( $cc->{'lenguaje'}, "Declaración de lenguaje correcta" );
+  }
 
-  if ( $this_hito > 1 ) { # Integración continua
+  if ( $this_hito > 2 ) { # Tests
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
     my $travis_domain = travis_domain( $README, $user, $name );

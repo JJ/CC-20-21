@@ -1,5 +1,3 @@
-# Hito 0
-
 ## Objetivos de la primera semana, comienza el 6 de octubre de 2020
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -18,8 +16,6 @@
 
 [Ejercicios del tema 1](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana01.md)
 
-# Hito 1
-
 ## Objetivos de la segunda semana, 13 de octubre de 2020
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
@@ -35,8 +31,24 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
 - [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
-- [x] Hacer un ejercicio práctico de domain driven design.
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
 [Ejercicios tema 2](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana02.md)
+
+## Objetivos de la cuarta semana, 27 de octubre de 2020
+
+- [x] Entender los errores cometidos en el hito 1 y entregarlo de nuevo: [PR](https://github.com/JJ/CC-20-21/pull/210)
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación: [Ejercicio 4 del tema 2](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana02.md)
+
+## Objetivos de la quinta semana, 3 de noviembre de 2020
+
+- [x] Entender los errores comunes en el hito 1 y reentregarlo: [PR](https://github.com/JJ/CC-20-21/pull/250)
+  - [x] No todas las clases tienen que tener *getter* y *setter*
+  - [x] Cambiar la tecnología *Node/Express* para tener más garantía de obtener puntos por originalidad
+  - [x] Entender qué es una historia de usuario
+  - [x] Entender qué es una planificación
+- [x] Instalar docker: [proceso de instalación](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/instalacion_docker.md)
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios
