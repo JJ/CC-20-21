@@ -8,7 +8,6 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
-
 ### Otros objetivos
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -46,5 +45,7 @@
 Enlace a los [ejercicios del tema 1](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios1.md)
 
 Enlace a los [ejercicios del tema 2](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios2.md)
+
+Enlace a los [Ejercicios del tema 3](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios3.md)
 
 [Código](https://github.com/antobalbis/autoevaluacion/tree/main/src) de los ejercicios del tema 2

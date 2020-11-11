@@ -38,5 +38,5 @@ Los ejercicios del Tema#1 resueltos este [enlace](https://github.com/ccvaillant1
 - Conocer permisos y cuales usar en cada momento.
 * [x] Entender lo necesario para entregar el hito 0 del proyecto.
 
-Los ejercicios del Tema#2 Desarrollo Basado en pruebas resueltos este [enlace](https://github.com/ccvaillant1992/CC-20-21-Ejercicios/blob/master/docs/Ejercicios-Tema2.md)
+ Los ejercicios del Tema#2 Desarrollo Basado en pruebas resueltos este [enlace](https://github.com/ccvaillant1992/CC-20-21-Ejercicios/blob/master/docs/Ejercicios-Tema2.md)
 

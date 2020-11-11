@@ -44,8 +44,11 @@
 [semana3](https://github.com/ouank/CC-ejercicios/blob/master/semana3/some_ej)
 
  # Objetivos de la cuarta semana
-- [] Entender las claves del desarrollo basado en pruebas.
-- [] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-- [] Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
-- [] Entender qué son los brokers de mensajería y cómo se usan.
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
+- [x] Entender qué son los brokers de mensajería y cómo se usan.
+
+[semana4](https://github.com/ouank/CC-ejercicios/blob/master/semana4/ejercicios.md)
+
 

@@ -59,6 +59,12 @@
 * Entender qué es una entidad en el contexto de *domain driven design* y en qué se diferencian de objetos valor.
 * Entender qué implicar resolver un problema más allá de poder almacenar, buscar y recuperar cosas.
 
+## Lab class, Nov 9th 2020
+
+- Understand the concept of classes, and application design.
+- Understand what's a test.
+- Understand what's an issue, commit, US, milestone.
+
 ## Material para la clase
 
 Se comenzará con
