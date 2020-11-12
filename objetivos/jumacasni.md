@@ -52,3 +52,10 @@
   - [x] Entender qué es una planificación
 - [x] Instalar docker: [proceso de instalación](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/instalacion_docker.md)
 - [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios
+
+## Objetivos de la sexta semana, 10 de noviembre de 2020
+
+- [x] Entender qué es una justificación y cómo se deben justificar las rúbricas:
+	- [x] [Justificación de la elección del gestor de tareas del hito 2](https://github.com/Jumacasni/Terrake/blob/main/docs/gestion_tareas.md)
+	- [x] [Justificación de la elección de la biblioteca de aserciones del hito 2](https://github.com/Jumacasni/Terrake/blob/main/docs/biblioteca_aserciones.md)
+- [x] Conocer las buenas prácticas y estándares de **Go** 
