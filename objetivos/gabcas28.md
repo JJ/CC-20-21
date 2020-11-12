@@ -31,6 +31,7 @@
 - [x] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
 - [x] Entender el concepto de domain driven design.
 - [x] Entender arquitecturas de paso de mensajes.
+- [x] Terminados ejericios tema 2.
 
 [Ejercicios tema 2](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter2)
 
@@ -47,5 +48,6 @@
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [x] Terminados ejericios tema 3.
 
 [Ejercicios tema 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3)
