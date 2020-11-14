@@ -96,5 +96,6 @@
 - [x] [Contenedores generales](http://jj.github.io/CC/documentos/temas/Contenedores.html#usando-dockerfiles).
 - [x] Cómo depurar contenedores.
 - [x] Entender las claves del [hito 3](https://jj.github.io/CC/documentos/proyecto/3.Docker).
+- [x] Correciones [hito1](https://github.com/Carlossamu7/CC1-Conservatorio).
 
 [Ejercicios Tema 3](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema3.md)
