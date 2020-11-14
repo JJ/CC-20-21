@@ -85,4 +85,16 @@
     - Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesario para entenderlo.
 - [x] Recordatorio: el fichero `README.md` corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
+# Objetivos de la sexta semana (10 de noviembre de 2020)
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+## Otros objetivos
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [x] [Contenedores para datos](http://jj.github.io/CC/documentos/temas/Contenedores.html#contenedores-de-datos).
+- [x] [Contenedores generales](http://jj.github.io/CC/documentos/temas/Contenedores.html#usando-dockerfiles).
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del [hito 3](https://jj.github.io/CC/documentos/proyecto/3.Docker).
+
 [Ejercicios Tema 3](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema3.md)
