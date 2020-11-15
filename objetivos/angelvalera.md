@@ -102,7 +102,7 @@
 - [ ] Cómo depurar contenedores.
 - [ ] Entender las claves del hito 3.
 - [ ] Reenviar el hito 2 con las correcciones realizadas.
-- [x] Actualizar el fichero de objetivos para hacer el reenvío.
+- [x] Actualizar el [fichero](https://github.com/JJ/CC-20-21/pull/331) de objetivos para hacer el reenvío.
 
 
 
