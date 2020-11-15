@@ -89,6 +89,23 @@
 - [x] Entender los errores comunes en el hito 1, como se vieron en la clase práctica. 
 - [x] Recordatorio: el fichero README.md corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
+## Objetivos de la sexta semana (10 de noviembre de 2020)
+
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+## Otros objetivos
+
+- [ ] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [ ] Contenedores para datos
+- [ ] Contenedores generales
+- [ ] Cómo depurar contenedores.
+- [ ] Entender las claves del hito 3.
+- [ ] Reenviar el hito 2 con las correcciones realizadas.
+- [x] Actualizar el fichero de objetivos para hacer el reenvío.
+
+
+
 
 
 ---
