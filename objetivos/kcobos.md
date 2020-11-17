@@ -70,3 +70,29 @@
 - [X] Entender cómo encaja TDD dentro de la infraestructura virtual.
 
 [Entrega hito 1](https://github.com/JJ/CC-20-21/pull/238)
+
+## Objetivos quinta semana
+
+- [X] Entender las claves del desarrollo basado en pruebas.
+- [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [X] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [X] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+### Otros objetivos
+
+- [X] Instalar docker y/o podman/buildah. <https://github.com/kcobos/Ejercicios-CC/blob/master/Tema3/Ejercicio1.md>
+- [X] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+- [X] Comprender las claves del éxito de Docker.
+- [X] Entender qué son los registros de contenedores como Docker Hub y cómo usarlos. <https://hub.docker.com/u/kcobos>
+- [X] Recordatorio: el fichero README.md corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
+
+## Objetivos sexta semana
+
+- [X] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+## Otros objetivos
+
+- [ ] Contenedores para datos
+- [X] Contenedores generales
+- [X] Cómo depurar contenedores.
+- [X] Entender las claves del hito 3.
