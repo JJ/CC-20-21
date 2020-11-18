@@ -59,5 +59,6 @@
 - [x] Entender el concepto de DevOps.
 - [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [x] Aprender a usar integración continua en cualquier aplicación.
+- [x] Investigación sobre GitHub actions
 
 [Ejercicios tema 4](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter4)
