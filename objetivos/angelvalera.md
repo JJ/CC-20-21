@@ -97,13 +97,29 @@
 ## Otros objetivos
 
 - [ ] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
-- [ ] Contenedores para datos
-- [ ] Contenedores generales
-- [ ] Cómo depurar contenedores.
-- [ ] Entender las claves del hito 3.
-- [ ] Reenviar el hito 2 con las correcciones realizadas.
+- [x] Contenedores para datos
+- [x] Contenedores generales
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+- [x] Reenviar el hito 2 con las correcciones realizadas.
 - [x] Actualizar el [fichero](https://github.com/JJ/CC-20-21/pull/331) de objetivos para hacer el reenvío.
 
+---
+
+## Objetivos de la séptima semana (17 de noviembre de 2020)
+
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+## Otros objetivos
+
+- [x] Optimizar imágenes Docker
+- [x] Darse de alta en Travis.
+- [ ] Darse de alta en otros sitios de integración continua.
+- [ ] Entender qué son las GitHub actions.
+- [ ] Otros sistemas de CI/CD y qué interés específico tienen.
+- [ ] Buenas prácticas en sistemas de CI
+- [x] Actualizar el fichero de objetivos para entregar el hito3.
 
 
 
