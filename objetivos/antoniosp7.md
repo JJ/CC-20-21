@@ -63,6 +63,7 @@
     - La planificación tiene que ser explícita, no cada elemento por separado.
  - [X] Entender la importancia de los flujos de trabajo en el desarrollo de software.
  - [X] Entender cómo encaja TDD dentro de la infraestructura virtual.
+ - [X] Entender las diferencias entre TDD y BDD.
 
 
 # Objetivos de la semana 5
