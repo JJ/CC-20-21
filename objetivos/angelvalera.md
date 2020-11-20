@@ -119,7 +119,7 @@
 - [ ] Entender qué son las GitHub actions.
 - [ ] Otros sistemas de CI/CD y qué interés específico tienen.
 - [ ] Buenas prácticas en sistemas de CI
-- [x] Actualizar el fichero de objetivos para entregar el hito3.
+- [x] Actualizar el fichero de [objetivos](https://github.com/JJ/CC-20-21/pull/346) para entregar el hito3.
 
 
 
