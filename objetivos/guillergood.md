@@ -65,4 +65,12 @@
 - [x] Aprender sobre docker e interiorizarlo.
 - [x] Realizar un reenvío con las correcciones del hito 2.
 
-[Ejercicios tema 4 (próximamente)](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%204/Ejercicios.md)
+[Ejercicios tema 4](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%204/Ejercicios.md)
+
+## Objetivos de la sexta semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Entender los requisitos del hito 3.
+
+## Objetivos de la séptima semana
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+- [x] Ver las posibles alternativas de los diferentes contenedores
