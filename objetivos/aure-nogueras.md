@@ -55,7 +55,7 @@
 ### Otros objetivos
 
 - [x] Entender los errores comunes en el hito 1:
-	- No enlazar la clase que se ha programado
+	- No enlazar la clase que se ha programado.
 	- La clase no tiene que tener todos los getters y setters...
 	... y tienen que enlazar las HU.
 	- La planificación tiene que ser explícita, no cada elemento por separado.
@@ -70,5 +70,26 @@
 	- Si las clases son sólo contenedores de datos y eso resuelve tu problema, tu problema no necesita una aplicación, necesita una base de datos. Vuelve a pensar el problema, porque las clases son código, deben hacer algo.
 	- Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesario para entenderlo.
 
-[Ejercicios del tema 3](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3.md)
+[Ejercicios del tema 3 parte 1](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3_parte1.md)
+
+# Objetivos de la sexta (10 de noviembre de 2020) y la séptima semana (17 de noviembre de 2020)
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+### Otros objetivos
+
+- [x] Contenedores para datos.
+- [x] Contenedores generales.
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+- [x] Optimizar imágenes Docker.
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Buenas prácticas en sistemas de CI
+
+[Ejercicios del tema 3 parte 2](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3_parte2.md)
+
 
