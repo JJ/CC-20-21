@@ -99,3 +99,18 @@
 - [x] Correciones [hito1](https://github.com/Carlossamu7/CC1-Conservatorio).
 
 [Ejercicios Tema 3](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema3.md)
+
+# Objetivos de la séptima semana (17 de noviembre de 2020)
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de *cloud*.
+
+## Otros objetivos
+
+- [x] [Optimizar imágenes Docker](http://jj.github.io/CC/documentos/temas/Contenedores#usando-dockerfiles).
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-pr%C3%A1cticas).
+
+[Continuar con los ejercicios más avanzados](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion).
