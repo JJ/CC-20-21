@@ -82,7 +82,7 @@
 - [x] Otros sistemas de CI/CD y qué interés específico tienen.
 - [x] Buenas prácticas en sistemas de CI
 
-[Apuntes básicos de Dockerfile y Skopeo](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tutoriales/docker_skopeo.md)
+[Apuntes básicos sobre Dockerfile y Skopeo](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tutoriales/docker_skopeo.md)
 
 
 
