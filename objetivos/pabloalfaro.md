@@ -73,4 +73,5 @@
 - [x] Buenas prácticas en sistemas de CI
 
 [Hito 3](https://github.com/pabloalfaro/Car-finder/milestone/6)
+[Autoevaluación 3](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema3/tema3.md)
 
