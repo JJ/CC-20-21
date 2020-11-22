@@ -88,3 +88,28 @@
 - [x] Recordatorio: el fichero README.md corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
 [Ejercicios tema 3](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%205)
+
+# Objetivos de la sexta semana
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+### Otros objetivos
+
+- [ ] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [x] Contenedores para datos
+- [x] Contenedores generales
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+
+# Objetivos de la séptima semana
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+### Otros objetivos
+
+- [x] Optimizar imágenes Docker
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Buenas prácticas en sistemas de CI
+
+[Ejercicios tema 3 (Parte II)](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%206-7)

@@ -54,6 +54,15 @@ Ya se tendría que haber entregado [hito 2](https:///jj.github.io/CC/documentos/
   conceptos de hito, MVP o PVM, HU, issues, cómo crear buenos commits,
   cómo avanzar el código siguiendo esta metodología.
 
+## Lab class, November 16th
+
+* Understand basic concepts related to the 2nd milestone: relationship
+  between US and tests, task runners, assertion library, testing
+  framework (not *frame*).
+* Understand the importance of a proper design of exceptions.
+* Understand how to design a good class hierarchy, and how to leverage
+  type systems in strongly typed languages.
+
 ## Siguiente semana
 
-[Sexta semana](06-semana.md)
+[Séptima semana](07-semana.md)

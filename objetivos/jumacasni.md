@@ -52,3 +52,18 @@
   - [x] Entender qué es una planificación
 - [x] Instalar docker: [proceso de instalación](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/instalacion_docker.md)
 - [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios
+
+## Objetivos de la sexta semana, 10 de noviembre de 2020
+
+- [x] Entender qué es una justificación y cómo se deben justificar las rúbricas:
+	- [x] [Justificación de la elección del gestor de tareas del hito 2](https://github.com/Jumacasni/Terrake/blob/main/docs/gestion_tareas.md)
+	- [x] [Justificación de la elección de la biblioteca de aserciones del hito 2](https://github.com/Jumacasni/Terrake/blob/main/docs/biblioteca_aserciones.md)
+- [x] Conocer las buenas prácticas y estándares de **Go** 
+
+## Objetivos de la séptima semana, 17 de noviembre de 2020
+
+- [x] Realizar los ejercicios del 1 al 4 del tema 3: [enlace a ejercicios](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Tema3.md)
+- [x] Entender la diferencia entre ``ENTRYPOINT`` y ``CMD``
+- [x] Entender la diferencia entre ``COPY`` y ``ADD``
+- [x] Avanzar el hito 3
+- [x] Informarse de las buenas pŕacticas para escribir un ``dockerfile``

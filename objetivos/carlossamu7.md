@@ -85,4 +85,32 @@
     - Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesario para entenderlo.
 - [x] Recordatorio: el fichero `README.md` corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
+# Objetivos de la sexta semana (10 de noviembre de 2020)
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+## Otros objetivos
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [x] [Contenedores para datos](http://jj.github.io/CC/documentos/temas/Contenedores.html#contenedores-de-datos).
+- [x] [Contenedores generales](http://jj.github.io/CC/documentos/temas/Contenedores.html#usando-dockerfiles).
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del [hito 3](https://jj.github.io/CC/documentos/proyecto/3.Docker).
+- [x] Correciones [hito1](https://github.com/Carlossamu7/CC1-Conservatorio).
+
 [Ejercicios Tema 3](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema3.md)
+
+# Objetivos de la séptima semana (17 de noviembre de 2020)
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de *cloud*.
+
+## Otros objetivos
+
+- [x] [Optimizar imágenes Docker](http://jj.github.io/CC/documentos/temas/Contenedores#usando-dockerfiles).
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-pr%C3%A1cticas).
+
+[Continuar con los ejercicios más avanzados](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion).

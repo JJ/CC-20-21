@@ -50,3 +50,24 @@
 [Ejercicios Tema 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md)
 
 
+# Objetivos a cubrir en la sexta semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Comprender la diferencia entre incrustar datos en el contenedor (ADD COPY) y hacer accesible los datos al contenedor (volumenes).
+- [x] Entender las claves del hito 3.
+
+# Objetivos a cubrir en la séptima semana
+- [x] Entender qué es la integración continua y el despliegue continua (CI/CD) y su importancia en las operaciones Cloud y su relación con la cultura DevOps.
+- [x] Saber aplicar buenas prácticas en los Dockerfiles para optimizar las imágenes creadas.
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración Continua (Jenkis y CircleCI).
+- [x] Entender qué son las GithubActions.
+- [x] Leer y aprender sobre buenas prácticas en sistemas de CI.
+- [x] Entender y interiorizar la diferencia entre `ENTRYPOINT` y `CMD`.  
+- [x] Entender y interiorizar la diferencia entre `COPY` y `ADD`.  
+- [x] Seguir buenas prácticas en la construcción del dockerfile.
+- [x] Entender cómo construir en varias etapas, como pasar archivos resultantes de una etapa a otra y qué beneficios puede aportar en el tamaño de la imagen de nuestros contenedores.
+
+[Mis apuntes de Docker. Problemas y Soluciones](https://github.com/pepitoenpeligro/CloudBanking/issues/51)
+[Buenas Prácticas en Dockerfile](https://github.com/pepitoenpeligro/CloudBanking/blob/master/Dockerfile)
+[Fix Ejercicio 6 Contenedores](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-6)
+

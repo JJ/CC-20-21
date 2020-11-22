@@ -112,6 +112,7 @@
 
 - [x] Entender los errores comunes en el hito 1
 
+
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_3.md)
 
 
@@ -149,3 +150,4 @@
 - [x] Otros sistemas de CI/CD y qué interés específico tienen.
 
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
+
