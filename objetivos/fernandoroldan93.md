@@ -3,6 +3,7 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 
 * [Ejercicios del tema de desarrollo arquitecturas software](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Arquitecturas_software.md)
 * [Ejercicios del tema de desarrollo basado en pruebas ](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Desarrollo_basado_en_pruebas.md)
+* [Ejercicios del tema de Contenedores](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Contenedores.md)
 
 # Primera Semana
 
