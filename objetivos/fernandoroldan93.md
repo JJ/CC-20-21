@@ -60,3 +60,4 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 - [ ] Cómo depurar contenedores.
 - [ ] Entender las claves del hito 3.
 - [ ] Reenviar el hito 2 con las correcciones realizadas.
+- [ ] Actualizar el [fichero](https://github.com/JJ/CC-20-21/pull/356) de objetivos para realizar el reenvío del hito 1
