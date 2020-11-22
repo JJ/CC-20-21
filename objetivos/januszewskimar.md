@@ -113,4 +113,4 @@ Los ejercicios del tema 2 se pueden consultar [aquí](https://github.com/janusze
 - [x] Otros sistemas de CI/CD y qué interés específico tienen.
 - [x] Buenas prácticas en sistemas de CI
 
-Los ejercicios del tema 3 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md).
+Los ejercicios del tema 3 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md). 
