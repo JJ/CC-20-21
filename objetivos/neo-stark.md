@@ -54,3 +54,18 @@
 - [x] Se sigue con el desarrollo del hito 2.
 - [x] Elegidas bibliotecas de aserciones y marcos de prueba óptimos para mi proyecto.
 - [x] Encontrar la forma de ejecutar tareas en **sbt**. <- Herramienta bastante potente hay que decir.
+
+## Semana 6
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Enviado hito 2.
+- [x] Reenviado hito 2.
+
+## Semana 7
+
+- [x] Darse de alta en Travis. (Ya tenía cuenta realmente)
+- [x] Darse de alta en otros sitios de integración continua. -> CircleCI
+- [ ] Entender qué son las GitHub actions. Tengo que prácticar con algunos ejemplos.
+- [x] Entender la diferencia entre ENTRYPOINT y CMD.
+- [x] Enviar hito 3.
+- [x] Ejercicios tema [contenedores](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema3.md). 

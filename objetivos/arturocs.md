@@ -112,4 +112,42 @@
 
 - [x] Entender los errores comunes en el hito 1
 
-[Ejercicios](https://github.com/arturocs/autoevaluacion-CC)
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_3.md)
+
+
+
+## Objetivos de la sexta semana 
+
+
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+
+- [x] [Contenedores para datos](http://jj.github.io/CC/documentos/temas/Contenedores.html#contenedores-de-datos)
+
+- [x] [Contenedores generales](http://jj.github.io/CC/documentos/temas/Contenedores.html#usando-dockerfiles)
+
+- [x] Cómo depurar contenedores.
+
+- [x] Entender las claves del [hito 3](https:///jj.github.io/CC/documentos/proyecto/3.Docker).
+
+  
+
+## Objetivos de la séptima semana
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+- [x] [Optimizar imágenes Docker](http://jj.github.io/CC/documentos/temas/Contenedores#usando-dockerfiles)
+
+- [x] Darse de alta en Travis.
+
+- [x] Darse de alta en otros sitios de integración continua.
+
+- [x] Entender qué son las GitHub actions.
+
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+
+- [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
+
