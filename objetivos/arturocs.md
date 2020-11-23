@@ -20,6 +20,7 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar
   en la asignatura. 
   
+
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_1.md)
 
 ## Objetivos a cubrir en la segunda y tercera semana
@@ -68,11 +69,47 @@
 ## Objetivos de la cuarta semana
 
 - [x] Entender las claves del desarrollo basado en pruebas.
+
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+
 - [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
 - [x] Entender los errores comunes en el hito 1.
+
 - [x] La planificación tiene que ser explícita, no cada elemento por separado.
+
 - [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+
 - [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
 
+  
 
+## Objetivos quinta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+
+- [ ] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+
+- [x] Instalar docker y/o podman/buildah.
+
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+
+- [x] Comprender las claves del éxito de Docker.
+
+- [ ] Entender qué son los registros de contenedores como Docker Hub y cómo usarlos.
+
+- [x] Entender los errores comunes en el hito 1
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC)

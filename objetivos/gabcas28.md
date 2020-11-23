@@ -31,10 +31,11 @@
 - [x] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
 - [x] Entender el concepto de domain driven design.
 - [x] Entender arquitecturas de paso de mensajes.
+- [x] Terminados ejericios tema 2.
 
 [Ejercicios tema 2](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter2)
 
-## Objetivos de la tercera semana
+## Objetivos del tercer tema
 
 - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 - [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
@@ -47,5 +48,17 @@
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [x] Terminados ejericios tema 3.
 
 [Ejercicios tema 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3)
+
+## Objetivos del cuarto tema
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Objetivos específicos
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
+- [x] Investigación sobre GitHub actions
+
+[Ejercicios tema 4](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter4)

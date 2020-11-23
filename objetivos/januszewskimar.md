@@ -88,4 +88,32 @@ Los ejercicios del tema 2 se pueden consultar [aquí](https://github.com/janusze
 - [x] Entender los errores comunes en el hito 1, como se vieron en la clase práctica. Adicionalmente:
 - [x] Recordatorio: el fichero README.md corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
-Los ejercicios del tema 3 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md).
+# Sexta semana
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+## Otros objetivos
+
+- [ ] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [x] Contenedores para datos
+- [x] Contenedores generales
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+
+Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md).
+
+# Séptima semana
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+## Otros objetivos
+
+- [x] Optimizar imágenes Docker
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Buenas prácticas en sistemas de CI
+
+Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md#Ejercicio-6).
+

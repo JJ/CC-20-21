@@ -13,7 +13,7 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-[ejercicio 01](https://github.com/ouank/CC-ejercicios/blob/master/ej-01.md)
+[ejercicio 01](https://github.com/ouank/CC-ejercicios/tree/master/tema1)
 
 # Objetivos de la segunda semana
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
@@ -28,7 +28,6 @@
 - [x] Entender el concepto de domain driven design.
 - [x] Entender arquitecturas de paso de mensajes.
 
-[semana 02](https://github.com/ouank/CC-ejercicios/blob/master/semana2/ejercicios.md)
 
 # Objetivos de la tercera semana
  - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
@@ -41,14 +40,21 @@
  - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
  - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 
-[semana3](https://github.com/ouank/CC-ejercicios/blob/master/semana3/some_ej)
+[ejercicio 02](https://github.com/ouank/CC-ejercicios/tree/master/tema2)
 
- # Objetivos de la cuarta semana
+# Objetivos de la cuarta semana
 - [x] Entender las claves del desarrollo basado en pruebas.
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 - [x] Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
 - [x] Entender qué son los brokers de mensajería y cómo se usan.
 
-[semana4](https://github.com/ouank/CC-ejercicios/blob/master/semana4/ejercicios.md)
+
+# Objetivos de la quinta semana
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+[ejercicio 03](https://github.com/ouank/CC-ejercicios/tree/master/tema3)
 
 

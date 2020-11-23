@@ -56,3 +56,26 @@
 - [x] Volver a entender los errores comunes en el hito 1.
 
 [Ejercicios Tema 3](https://github.com/harvestcore/CCExercises/blob/master/exercises/using_containers/using_containers.md)
+
+## Sexta semana
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Contenedores para datos.
+- [x] Contenedores generales.
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+
+## Séptima semana
+
+- [x] Optimizar imágenes Docker.
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Buenas prácticas en sistemas de CI.
+- [x] Entender la diferencia entre ENTRYPOINT y CMD.
+- [x] Entender la diferencia entre COPY y ADD (y los permisos con los que se ejecuta).
+- [x] Buenas prácticas como no tratar de escribir en los volúmenes compartidos.
+- [x] Builds en múltiples etapas y cómo usarlo en Javascript.
+
+[Confección de un Dockerfile para pruebas unitarias + CI](https://github.com/harvestcore/HarvestCCode/blob/master/doc/dockerf.tests.md)
