@@ -114,3 +114,27 @@
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-pr%C3%A1cticas).
 
 [Continuar con los ejercicios más avanzados](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion).
+
+# Objetivos de la octava semana (24 de noviembre de 2020)
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+## Otros objetivos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+  - Entender qué crea capas y qué problemas crea eso.
+      - Usar repetición de órdenes sólo cuando sea necesario
+  - Entender para qué sirve realmente la construcción en dos fases
+  - Entender dónde y cuando se establecen los directorios de trabajo
+  - Entender las etiquetas obsoletas
+  - El gestor de tareas está para algo.
+  - Malas prácticas como copiar cosas al directorio compartido.
+  - Si copias un Dockerfile, tienes también que explicar qué hace cada
+    orden.
+  - *No* se pueden copiar los fuentes.
+  - `VOLUME` realmente no hace falta.
+  - ¿hace falta git una vez que se haya descargado lo que sea?
+
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+- [x] Reentregar el hito2 del proyecto [*MiConservatorio*](https://github.com/Carlossamu7/CC1-Conservatorio).
