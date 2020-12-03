@@ -57,4 +57,11 @@
 
 [ejercicio 03](https://github.com/ouank/CC-ejercicios/tree/master/tema3)
 
+# Objetivos a cubrir en la sexta semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Comprender la diferencia entre incrustar datos en el contenedor (ADD COPY) y hacer accesible los datos al contenedor (volumenes).
+- [x] Entender las claves del hito 3.
+
+[ejercicio 03](https://github.com/ouank/CC-ejercicios/tree/master/tema3)
+
 
