@@ -151,9 +151,8 @@
 
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
 
-<<<<<<< HEAD
-=======
-  
+
+
 
 ## Objetivos de la octava semana
 
@@ -186,4 +185,7 @@
 - [x] ¿hace falta git o curl una vez que se haya descargado lo que sea?
 
 - [x] Entender las diferentes rúbricas del hito 4 y qué implican.
->>>>>>> 73b6284 (Añadidos objetivos de la octava semana)
+
+
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC/)
