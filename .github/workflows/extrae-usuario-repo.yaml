@@ -1,11 +1,11 @@
-name: "Comprueba la existencia del contenedor de docker"
+name: "Extrae usuario y repo"
 on:
   pull_request:
     paths:
-      - 'proyectos/[34567].md'
+      - 'proyectos/[1234567].md'
 
 jobs:
-  docker_check:
+  extrae_usuario_repo:
     runs-on: ubuntu-latest
     steps:
       - name: Extrae URL del repositorio
@@ -31,16 +31,14 @@ jobs:
                 core.exportVariable('user',user)
                 core.exportVariable('repo',repo)
             }
-      - name: Descarga repo usuario y ejecuta contenedor
-        uses: actions/checkout@v2
-        with:
-          repository: '${{env.user}}/${{env.repo}}'
-      - name: Ejecuta contenedor
+      - name: Exporta al fichero de entorno
         run: |
-          if test -f "DOCKER_USER"; then
-            echo "Usuario de Docker alternativo"
-            user=`cat DOCKER_USER`
-          fi
-          export CONTAINER=${user}/${repo}
-          docker run -t -v `pwd`:/app/test ${CONTAINER,,}
+          echo CC_USER=${{env.user}} >> USER_REPO
+          echo CC_REPO=${{env.repo}} >> USER_REPO
+      - name: Sube resultados como artefactos
+        uses: actions/upload-artifact@v2
+        with:
+          name: user-repo
+          path: USER_REPO
+
 

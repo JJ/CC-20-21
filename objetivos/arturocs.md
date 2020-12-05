@@ -152,8 +152,6 @@
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
 
 
-
-
 ## Objetivos de la octava semana
 
 - [x] Entender el concepto de inyección de dependencias.
@@ -187,5 +185,5 @@
 - [x] Entender las diferentes rúbricas del hito 4 y qué implican.
 
 
-
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/)
+
