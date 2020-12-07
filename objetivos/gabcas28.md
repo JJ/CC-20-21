@@ -18,7 +18,7 @@
 
 [Ejercicios tema 1](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter1)
 
-## Objetivos de la segunda semana
+## Objetivos del primer tema - Test Driven Development
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
@@ -35,7 +35,7 @@
 
 [Ejercicios tema 2](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter2)
 
-## Objetivos del tercer tema
+## Objetivos del segundo tema - Contenedores
 
 - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 - [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
@@ -52,7 +52,7 @@
 
 [Ejercicios tema 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3)
 
-## Objetivos del cuarto tema
+## Objetivos del tercer tema - Integración Contínua
 
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [x] Objetivos específicos
@@ -62,3 +62,18 @@
 - [x] Investigación sobre GitHub actions
 
 [Ejercicios tema 4](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter4)
+
+## Objetivos del cuarto tema - REST
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Entender los conceptos necesarios para diseñar, implementar y construir una aplicación sobre infraestructura virtual.
+- [x] Diseñar, construir y analizar las prestaciones de una aplicación en infraestructura virtual.
+
+## Objetivos del quinto tema - Microservicios
+
+- [x] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+
+[Ejercicios tema 5](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter5)

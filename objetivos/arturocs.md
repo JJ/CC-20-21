@@ -151,3 +151,39 @@
 
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
 
+
+## Objetivos de la octava semana
+
+- [x] Entender el concepto de inyección de dependencias.
+
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+
+- [x] Entender qué crea capas y qué problemas crea eso.
+
+- [x] Usar repetición de órdenes sólo cuando sea necesario
+
+- [x] Entender para qué sirve realmente la construcción en dos fases
+
+- [x] Entender dónde y cuando se establecen los directorios de trabajo
+
+- [x] Entender las etiquetas obsoletas
+
+- [x] El gestor de tareas está para algo.
+
+- [x] Malas prácticas como copiar cosas al directorio compartido.
+
+- [x] Si copias un Dockerfile, tienes también que explicar qué hace cada orden.
+
+- [x] *No* se pueden copiar los fuentes.
+
+- [x] `VOLUME` realmente no hace falta.
+
+- [x] ¿hace falta git o curl una vez que se haya descargado lo que sea?
+
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC/)
+

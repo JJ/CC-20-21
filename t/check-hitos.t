@@ -59699,21 +59699,12 @@ EOC
     ok( $dockerfile_content !~ /COPY \.\s+/, "Se deben copiar sólo los ficheros necesarios para la construcción" );
   }
   
-  if ( $this_hito > 3 ) { # Tests
-    doing("hito 2");
+  if ( $this_hito >= 4 ) { # Tests
+    doing("hito 4");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    my $travis_domain = travis_domain( $README, $user, $name );
-    ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
-    if ( $travis_domain =~ /(com|org)/ ) {
-      is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
-    }
-
-    my ($buildtool) = ($README =~ m{(?:buildtool:)\s+(\S+)\s+});
-    ok( $buildtool, "Encontrado nombre del fichero buildtool" );
-    isnt( grep( /\b$buildtool\b/, @repo_files), 0, "$buildtool presente" );
   }
 
-  if ( $this_hito > 3 ) { # Integración continua
+  if ( $this_hito > 4 ) { # Integración continua
     doing("hito 4");
     my ($m_tool) = ($README =~ m{(?:Prestaciones:)\s+(\S+)\s+});
     ok( $m_tool, "Encontrado nombre del fichero de prestaciones $m_tool" );
