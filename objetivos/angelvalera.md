@@ -115,21 +115,52 @@
 
 - [x] Optimizar imágenes Docker
 - [x] Darse de alta en Travis.
-- [ ] Darse de alta en otros sitios de integración continua.
-- [ ] Entender qué son las GitHub actions.
-- [ ] Otros sistemas de CI/CD y qué interés específico tienen.
-- [ ] Buenas prácticas en sistemas de CI
+- [x] Darse de alta en otros sitios de integración continua.
+- [x] Entender qué son las GitHub actions.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Buenas prácticas en sistemas de CI
 - [x] Actualizar el fichero de [objetivos](https://github.com/JJ/CC-20-21/pull/346) para entregar el hito3.
 
+---
+
+## Objetivos de la octava semana (24 de noviembre de 2020)
 
 
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
 
+## Otros objetivos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+---
+
+## Objetivos de la novena semana (1 de diciembre de 2020)
+
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+
+## Otros objetivos
+
+
+- [x] Comprender los errores frecuentes del hito 2.
+- [x] Comprender los errores frecuentes del hito 3.
+- [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esenciales.
 ---
 
 ## Actividades
 
-[Ejercicios Tema 1: Arquitecturas software para la nube](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema1.md)
+- [Ejercicios Tema 1: Arquitecturas software para la nube](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema1.md)
 
-[Ejercicios Tema 2: Desarrollo basado en pruebas](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema2.md)
+- [Ejercicios Tema 2: Desarrollo basado en pruebas](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema2.md)
 
-[Ejercicios Tema 3: Contenedores y cómo usarlos](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema3.md)
+- [Ejercicios Tema 3: Contenedores y cómo usarlos](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema3.md)
+
+- [Ejercicios Tema 4: Integración continua](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema4.md)
