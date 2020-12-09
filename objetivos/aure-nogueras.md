@@ -110,6 +110,6 @@
 - [x] Entender qué es un API REST y cuáles son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [x] Entender la configuración de un microservicio y otros servicios esenciales.
 
-[Ejercicios del tema4](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema4/ejercicios_tema4.md)
+[Ejercicios del tema 4](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema4/ejercicios_tema4.md)
 
 
