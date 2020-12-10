@@ -113,3 +113,34 @@
 - [x] Buenas prácticas en sistemas de CI
 
 [Ejercicios tema 3 (Parte II)](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%206-7)
+
+# Objetivos de la octava semana
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+### Objetivos prácticos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+# Objetivos de la novena semana
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros objetivos
+
+- [x] Errores hito 2.
+- [x] Errores frecuentes hito 3.
+- [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esenciales.
+
+# Objetivos de la décima semana
+
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+
+[Ejercicios tema microservicios](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%208-10)
