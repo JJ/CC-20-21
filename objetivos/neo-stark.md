@@ -82,3 +82,4 @@
 - [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [x] Entender la configuración de un microservicio y otros servicios esenciales
 - [x] [Ejercicios tema de Integración Continua](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema4.md).
+- [x] Creando una rama "tests" para correr los tests de entregas en mi repositorio
