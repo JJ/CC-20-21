@@ -50,3 +50,61 @@
 [Ejercicios Tema 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md)
 
 
+# Objetivos a cubrir en la sexta semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Comprender la diferencia entre incrustar datos en el contenedor (ADD COPY) y hacer accesible los datos al contenedor (volumenes).
+- [x] Entender las claves del hito 3.
+
+# Objetivos a cubrir en la séptima semana
+- [x] Entender qué es la integración continua y el despliegue continua (CI/CD) y su importancia en las operaciones Cloud y su relación con la cultura DevOps.
+- [x] Saber aplicar buenas prácticas en los Dockerfiles para optimizar las imágenes creadas.
+- [x] Darse de alta en Travis.
+- [x] Darse de alta en otros sitios de integración Continua (Jenkis y CircleCI).
+- [x] Entender qué son las GithubActions.
+- [x] Leer y aprender sobre buenas prácticas en sistemas de CI.
+- [x] Entender y interiorizar la diferencia entre `ENTRYPOINT` y `CMD`.  
+- [x] Entender y interiorizar la diferencia entre `COPY` y `ADD`.  
+- [x] Seguir buenas prácticas en la construcción del dockerfile.
+- [x] Entender cómo construir en varias etapas, como pasar archivos resultantes de una etapa a otra y qué beneficios puede aportar en el tamaño de la imagen de nuestros contenedores.
+
+[Mis apuntes de Docker. Problemas y Soluciones](https://github.com/pepitoenpeligro/CloudBanking/issues/51)
+[Buenas Prácticas en Dockerfile](https://github.com/pepitoenpeligro/CloudBanking/blob/master/Dockerfile)
+[Fix Ejercicio 6 Contenedores](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-6)
+
+
+# Objetivos a cubrir en la octava semana
+- [x] Entender el concepto de inyección de dependencias (CDI)
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+- [x] Entender los errores frecuentes de la entrega del hito 3.
+  - [x] Entender qué crea capas y qué problemas crea eso
+  - [x] Entender para qué sirve relamente la construcción en varias etapas.
+  - [x] Entender dónde y cuando se establecen los WORKDIR
+  - [x] Entender las etiquetas obsoletas
+  - [x] Usar el gestor de tareas
+  - [x] No copiar los fuentes a la imagen
+  - [x] Aprender a optimizar la imagen de Docker 
+
+
+# Objetivos a cubrir en la novena semana
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegue modernos.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual
+- [x] Comprender los procesos de definición de contenedores
+- [x] Entender qué es una API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y la de otros servicios esenciales.
+
+# Objetivos a cubrir en la décima semana
+- [x] Comenzar a entender cómo se construye una GitHubAction y comprender que es más que una herramienta de CI.
+- [x] Comenzar a entender cómo construir pipelines de CI en Azure Pipelines.
+
+
+[Historia de implementación de GithubActions en mi Repo de proyecto](https://github.com/pepitoenpeligro/cloudbanking/issues/44)
+
+[GitHubAction para pasar los test al proyecto - Usado como herramienta CI](https://github.com/pepitoenpeligro/cloudbanking/actions/runs/404541761/workflow)
+
+[GitHubAction para pasar comprobar consistencia del fichero cc.yaml](https://github.com/pepitoenpeligro/cloudbanking/actions/runs/404541763/workflow)
+
+[Ejercicios del Tema 4 - Config Travis](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5) Corresponde a Ejercicio 1 y 2 del [Tema de Integración Continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html) y está empaquetado todo en 1 único ejercicios, así es más fácil de seguir.
+
+

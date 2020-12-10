@@ -59691,42 +59691,20 @@ EOC
     ok( $cc->{'lenguaje'}, "Declaración de lenguaje correcta" );
   }
 
-  if ( $this_hito > 2 ) { # Tests
-    doing("hito 2");
-    isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    my $travis_domain = travis_domain( $README, $user, $name );
-    ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
-    if ( $travis_domain =~ /(com|org)/ ) {
-      is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
-    }
-
-    my ($buildtool) = ($README =~ m{(?:buildtool:)\s+(\S+)\s+});
-    ok( $buildtool, "Encontrado nombre del fichero buildtool" );
-    isnt( grep( /\b$buildtool\b/, @repo_files), 0, "$buildtool presente" );
-  }
-
-  if ( $this_hito > 2 ) { # Integración continua
+  if ( $this_hito >= 3 ) { # Integración continua
     doing("hito 3");
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
     # Comprobaciones sobre el Dockerfile
     my $dockerfile_content =   read_text( "$repo_dir/Dockerfile");
     ok( $dockerfile_content !~ /COPY \.\s+/, "Se deben copiar sólo los ficheros necesarios para la construcción" );
-
-    # Comprobación del registry
-    my ($registry) = ($README =~ m{(?:Contenedor:)\s+(\S+)\s+});
-    ok( $registry, "Encontrado despliegue en registro $registry" );
-    if ( $registry =~ /hub.docker.com/ ) {
-      my $dockerfile = get "$registry/dockerfile";
-      ok( $dockerfile, "Se descarga correctamente el URL del Dockerfile $registry/dockerfile" );
-    } elsif ( $registry =~ /github.com/ ) {
-      my $dockerfile = get $registry;
-      ok( $dockerfile, "Se descarga correctamente el URL $registry" );
-    } else {
-      fail("$registry no es la dirección de un registro conocido");
-    }
+  }
+  
+  if ( $this_hito >= 4 ) { # Tests
+    doing("hito 4");
+    isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
   }
 
-  if ( $this_hito > 3 ) { # Integración continua
+  if ( $this_hito > 4 ) { # Integración continua
     doing("hito 4");
     my ($m_tool) = ($README =~ m{(?:Prestaciones:)\s+(\S+)\s+});
     ok( $m_tool, "Encontrado nombre del fichero de prestaciones $m_tool" );

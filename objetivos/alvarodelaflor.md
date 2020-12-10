@@ -70,3 +70,13 @@ Correcciones principales del hito 1:
 - [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
 
 [Ejercicios tema 3](https://github.com/alvarodelaflor/CC-Ejercicios/tree/main/Tema%203:%20Contenedores%20y%20c%C3%B3mo%20usarlos)
+
+# Objetivos de la sexta semana
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Contenedores para datos
+- [x] Contenedores generales
+- [x] Cómo depurar contenedores
+- [x] Entender las claves del hito 3.
+
+[Ejercicios ampliados](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%203:%20Contenedores%20y%20c%C3%B3mo%20usarlos/tema3_2.md)

@@ -3,6 +3,7 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 
 * [Ejercicios del tema de desarrollo arquitecturas software](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Arquitecturas_software.md)
 * [Ejercicios del tema de desarrollo basado en pruebas ](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Desarrollo_basado_en_pruebas.md)
+* [Ejercicios del tema de Contenedores](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Contenedores.md)
 
 # Primera Semana
 
@@ -51,5 +52,13 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 - [x] Entender qué es un issue y para qué sirve.
 - [x] Entender qué es una entidad en el contexto de domain driven design y en qué se diferencian de objetos valor.
 - [ ] Entender qué implicar resolver un problema más allá de poder almacenar, buscar y recuperar cosas.
- 
+
 # Sexta Semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+- [ ] Contenedores para datos
+- [ ] Contenedores generales
+- [ ] Cómo depurar contenedores.
+- [ ] Entender las claves del hito 3.
+- [ ] Reenviar el hito 2 con las correcciones realizadas.
+- [ ] Actualizar el [fichero](https://github.com/JJ/CC-20-21/pull/356) de objetivos para realizar el reenvío del hito 1

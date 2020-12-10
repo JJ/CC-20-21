@@ -1,5 +1,3 @@
-# Hito 0
-
 ## Objetivos de la semana 1
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -17,9 +15,6 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios del tema 1](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana1.md)
-
-
-# Hito 1
 
 ## Objetivos de la semana 2
 
@@ -41,9 +36,6 @@
 
 [Ejercicios del tema 2](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana2.md)
 
-
-# Hito 2
-
 ## Objetivos de la semana 4
 
 - [x] Entender las claves del desarrollo basado en pruebas.
@@ -57,5 +49,26 @@
 ## Objetivos de la semana 5
 
 - [x] Instalar docker.
-- [x]  Entender los errores comunes en el hito 1. Aquí esta el [PR](https://github.com/JJ/CC-20-21/pull/299) del reenvio.
+- [x] Entender los errores comunes en el hito 1. Aquí esta el [PR](https://github.com/JJ/CC-20-21/pull/299) del reenvio.
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+[Ejercicios semana 5](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana5.md)
+
+## Objetivos de la semana 6
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Cómo depurar contenedores.
+- [x] Entender las claves del hito 3.
+
+[Ejercicios semana 6](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana6.md)
+
+## Objetivos de la semana 7
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+[Ejercicios semana 7](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana7.md)
 

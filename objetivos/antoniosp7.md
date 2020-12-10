@@ -63,6 +63,7 @@
     - La planificación tiene que ser explícita, no cada elemento por separado.
  - [X] Entender la importancia de los flujos de trabajo en el desarrollo de software.
  - [X] Entender cómo encaja TDD dentro de la infraestructura virtual.
+ - [X] Entender las diferencias entre TDD y BDD.
 
 
 # Objetivos de la semana 5
@@ -79,6 +80,10 @@
  - [X] Recordatorio: el fichero README.md corresponde a la etapa actual de desarrollo del proyecto, y debe incluir un apartado para fácil acceso a la lectura de las rúbricas.
 
 [Ejercicios Tema 3](https://github.com/antoniosp7/Ejercicios-CC/tree/main/Tema3) 
+
+
+
+[Enlace al proyecto de la asignatura - HealthUGR](https://github.com/antoniosp7/HealthUGR)
 
 
 

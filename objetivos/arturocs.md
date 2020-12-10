@@ -20,6 +20,7 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar
   en la asignatura. 
   
+
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_1.md)
 
 ## Objetivos a cubrir en la segunda y tercera semana
@@ -68,11 +69,121 @@
 ## Objetivos de la cuarta semana
 
 - [x] Entender las claves del desarrollo basado en pruebas.
+
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+
 - [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
 - [x] Entender los errores comunes en el hito 1.
+
 - [x] La planificación tiene que ser explícita, no cada elemento por separado.
+
 - [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+
 - [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
 
+  
+
+## Objetivos quinta semana
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+
+- [ ] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+- [x] Entender los casos de uso de los contenedores y su importancia en la computación nube actual.
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+
+- [x] Instalar docker y/o podman/buildah.
+
+- [x] Recordar nociones básicas de Linux: administración básica de una máquina. Instalación de paquetes, instalación de repositorios, gestión de usuarios.
+
+- [x] Comprender las claves del éxito de Docker.
+
+- [ ] Entender qué son los registros de contenedores como Docker Hub y cómo usarlos.
+
+- [x] Entender los errores comunes en el hito 1
+
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_3.md)
+
+
+
+## Objetivos de la sexta semana 
+
+
+
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+
+- [x] Ponerse al día quien se haya incorporado tarde. Empezar con familiarizarse en profundidad con git y GitHub, y a continuación el hito 0.
+
+- [x] [Contenedores para datos](http://jj.github.io/CC/documentos/temas/Contenedores.html#contenedores-de-datos)
+
+- [x] [Contenedores generales](http://jj.github.io/CC/documentos/temas/Contenedores.html#usando-dockerfiles)
+
+- [x] Cómo depurar contenedores.
+
+- [x] Entender las claves del [hito 3](https:///jj.github.io/CC/documentos/proyecto/3.Docker).
+
+  
+
+## Objetivos de la séptima semana
+
+- [x] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+- [x] [Optimizar imágenes Docker](http://jj.github.io/CC/documentos/temas/Contenedores#usando-dockerfiles)
+
+- [x] Darse de alta en Travis.
+
+- [x] Darse de alta en otros sitios de integración continua.
+
+- [x] Entender qué son las GitHub actions.
+
+- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+
+- [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-prácticas)
+
+
+## Objetivos de la octava semana
+
+- [x] Entender el concepto de inyección de dependencias.
+
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+
+- [x] Entender qué crea capas y qué problemas crea eso.
+
+- [x] Usar repetición de órdenes sólo cuando sea necesario
+
+- [x] Entender para qué sirve realmente la construcción en dos fases
+
+- [x] Entender dónde y cuando se establecen los directorios de trabajo
+
+- [x] Entender las etiquetas obsoletas
+
+- [x] El gestor de tareas está para algo.
+
+- [x] Malas prácticas como copiar cosas al directorio compartido.
+
+- [x] Si copias un Dockerfile, tienes también que explicar qué hace cada orden.
+
+- [x] *No* se pueden copiar los fuentes.
+
+- [x] `VOLUME` realmente no hace falta.
+
+- [x] ¿hace falta git o curl una vez que se haya descargado lo que sea?
+
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+
+[Ejercicios](https://github.com/arturocs/autoevaluacion-CC/)
 
