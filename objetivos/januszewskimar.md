@@ -117,3 +117,23 @@ Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-
 
 Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-3.md#Ejercicio-6).
 
+# Octava semana
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+## Objetivos prácticos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+# Novena semana
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+Los ejercicios del tema 4 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-4.md).
+
