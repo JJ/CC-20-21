@@ -135,5 +135,13 @@ Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-
 - [x] Entender el papel de los contenedores en la infraestructura virtual.
 - [x] Comprender los procesos de definición de contenedores.
 
+## Otros objetivos
+
+- [x] Errores hito 2
+- [x] Errores frecuentes hito 3
+- [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esencialesx
+
+
 Los ejercicios del tema 4 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-4.md).
 
