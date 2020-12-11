@@ -185,8 +185,6 @@
 - [x] Entender las diferentes rúbricas del hito 4 y qué implican.
 
 
-
-
 ## Objetivos de la novena semana 
 
 - [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
@@ -204,3 +202,4 @@
 - [x] Entender la configuración de un [microservicio](http://jj.github.io/CC/documentos/temas/Microservicios.html) y otros servicios esenciales
 
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_4.md)
+
