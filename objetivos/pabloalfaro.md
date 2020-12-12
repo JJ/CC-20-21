@@ -69,9 +69,30 @@
 - [x] Darse de alta en Travis.
 - [x] Darse de alta en otros sitios de integración continua.
 - [x] Entender qué son las GitHub actions.
-- [x] Otros sistemas de CI/CD y qué interés específico tienen.
+- [x] Otros sistemas de CI/CD y qué interés específico tienen
 - [x] Buenas prácticas en sistemas de CI
 
 [Hito 3](https://github.com/pabloalfaro/Car-finder/milestone/6)
 [Autoevaluación 3](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema3/tema3.md)
 
+## Objetivos a cubrir en la octava semana
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+## Objetivos a cubrir en la novena semana
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+# Objetivos a cubir en la décima semana 
+
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+
+[Autoevaluación 4](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema4/tema4.md)

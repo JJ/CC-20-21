@@ -113,4 +113,58 @@
 - [x] Otros sistemas de CI/CD y qué interés específico tienen.
 - [x] [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-pr%C3%A1cticas).
 
-[Continuar con los ejercicios más avanzados](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion).
+[Ejercicios Tema 4](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema4.md)
+
+# Objetivos de la octava semana (24 de noviembre de 2020)
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación
+
+## Otros objetivos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+  - Entender qué crea capas y qué problemas crea eso.
+      - Usar repetición de órdenes sólo cuando sea necesario
+  - Entender para qué sirve realmente la construcción en dos fases
+  - Entender dónde y cuando se establecen los directorios de trabajo
+  - Entender las etiquetas obsoletas
+  - El gestor de tareas está para algo.
+  - Malas prácticas como copiar cosas al directorio compartido.
+  - Si copias un Dockerfile, tienes también que explicar qué hace cada
+    orden.
+  - *No* se pueden copiar los fuentes.
+  - `VOLUME` realmente no hace falta.
+  - ¿hace falta git una vez que se haya descargado lo que sea?
+
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+- [x] Reentregar el hito2 del proyecto [*MiConservatorio*](https://github.com/Carlossamu7/CC1-Conservatorio).
+
+# Objetivos de la novena semana (1 de diciembre de 2020)
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+## Otros objetivos
+
+- [x] Errores *hito 2*:
+    - No se explica la configuración de la herramienta de gestión de tareas, que es lo que se pedía. Ni siquiera se hace bien en la mayoría de los casos. No se usan reglas, ni plugins, ni configuraciones por omisión ni conexión entre objetivos (por ejemplo, build y test).
+    - No uso o uso incorrecto de fixups o setups.
+
+- [x] Errores frecuentes *hito 3*:
+    - Se dijo explícitamente que no se hiciera la comparación mínima lenguaje, lenguaje-slim, lenguaje-alpine, porque iba a ganar alpine. Pero es que si ni siquiera se hace la comparación con alpine, es peor todavía.
+    - El README es el de un proyecto. Acumular cosas de diferentes hitos sin orden y sin que explique lo que hace el proyecto, no corresponde a lo que se pide.
+    - Algunos habéis puesto que está deshabilitado la reconstrucción para imagen base, con lo que una de las ventajas de usar Docker Hub la estáis eliminando. Mirad por favor qué significa cada cosa.
+    - Por supuesto, hay que usar el usuarion sin privilegios, no sólo definirlo.
+
+- [x] Entender qué es un API [REST](http://jj.github.io/CC/documentos/temas/REST.html) y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un [microservicio](http://jj.github.io/CC/documentos/temas/Microservicios.html) y otros servicios esenciales.
+
+# Objetivos de la décima semana (9 de diciembre de 2020)
+
+- [x] Revisar diferentes ejemplos de GitHub Actions y [el nuevo Travis](https://github.com/JJ/CC-20-21/blob/master/.travis.yml).
+- [x] Ver ejemplos de [CI en Azure Pipelines](https://github.com/actions/virtual-environments/pull/2206#issuecomment-739767727) y ejemplos extremos de configuración de los mismos.
+
+[Ejercicios Tema 6](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema6.md)

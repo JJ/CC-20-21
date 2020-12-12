@@ -65,7 +65,22 @@
 
 - [x] Darse de alta en Travis. (Ya tenía cuenta realmente)
 - [x] Darse de alta en otros sitios de integración continua. -> CircleCI
-- [ ] Entender qué son las GitHub actions. Tengo que prácticar con algunos ejemplos.
+- [x] Entender qué son las GitHub actions. Tengo que prácticar con algunos ejemplos.
 - [x] Entender la diferencia entre ENTRYPOINT y CMD.
 - [x] Enviar hito 3.
-- [x] Ejercicios tema [contenedores](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema3.md). 
+- [x] Ejercicios tema [contenedores](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema3.md).
+
+## Semana 8
+
+- [x] Corregir errores realizados en el hito 3
+- [x] Reenviar hito 3 (reenvío rápido)
+- [x] Revisar hito 4 y comprender lo que se pide
+- [x] Aprender cosas sobre raku. (clase de live coding 25 noviembre)
+
+## Semana 9
+
+- [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esenciales
+- [x] [Ejercicios tema de Integración Continua](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema4.md).
+- [x] Creando una rama "tests" para correr los tests de entregas en mi repositorio
+- [x] vamos a ver si pasan los tests, añado un [enlace a la rama de prueba](https://github.com/Neo-Stark/CC-20-21/tree/tests)

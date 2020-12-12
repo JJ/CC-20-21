@@ -79,3 +79,33 @@
 - [x] Builds en múltiples etapas y cómo usarlo en Javascript.
 
 [Confección de un Dockerfile para pruebas unitarias + CI](https://github.com/harvestcore/HarvestCCode/blob/master/doc/dockerf.tests.md)
+
+## Octava semana
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender qué crea capas y qué problemas crea eso.
+- [x] Usar repetición de órdenes sólo cuando sea necesario.
+- [x] Entender para qué sirve realmente la construcción en dos fases.
+- [x] Entender dónde y cuando se establecen los directorios de trabajo.
+- [x] Entender las etiquetas obsoletas.
+- [x] El gestor de tareas está para algo.
+- [x] Malas prácticas como copiar cosas al directorio compartido.
+- [x] Si copias un Dockerfile, tienes también que explicar qué hace cada orden.
+- [x] No se pueden copiar los fuentes.
+- [x] VOLUME realmente no hace falta.
+- [x] ¿Hace falta git o curl una vez que se haya descargado lo que sea?
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+## Novena semana
+
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+- [x] Entender errores del hito 2.
+- [x] Entender errores del hito 3.
+- [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esenciales.
+
+[Ejercicios tema microservicios](https://github.com/harvestcore/CCExercises/blob/master/exercises/microservices/microservices.md)
