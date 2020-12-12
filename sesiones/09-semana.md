@@ -57,9 +57,8 @@
 
 - [Hito número 4](https://jj.github.io/CC/documentos/proyecto/4.CI). Fecha
   de entrega: **11 de diciembre** a las 23:59.
-  
+
 ## Siguiente semana
 
 [Décima semana](10-semana.nd)
-  
 
