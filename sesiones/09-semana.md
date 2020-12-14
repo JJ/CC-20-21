@@ -60,5 +60,5 @@
 
 ## Siguiente semana
 
-[Décima semana](10-semana.nd)
+[Décima semana](10-semana.md)
 

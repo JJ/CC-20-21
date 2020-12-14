@@ -21,4 +21,4 @@ con plazo hasta el **8 de enero**.
 
 ## Siguiente semana
 
-[Duodécima semana](12-semana.nd)
+[Duodécima semana](12-semana.md)

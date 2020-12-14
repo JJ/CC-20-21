@@ -15,4 +15,4 @@ con plazo hasta el **8 de enero**.
 
 ## Siguiente semana
 
-[Décimo tercera semana](13-semana.nd)
+[Décimo tercera semana](13-semana.md)
