@@ -151,3 +151,8 @@
   - [X] Por supuesto, hay que usar el usuario sin privilegios, no sólo definirlo.
 - [X] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [X] Entender la configuración de un microservicio y otros servicios esenciales
+
+## Sesión práctica undécima semana
+
+- <https://github.com/mjls130598/SharingNotes/issues/10>
+- <https://github.com/mjls130598/SharingNotes/issues/57>

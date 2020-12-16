@@ -32,7 +32,7 @@
 ## Práctica 16 de diciembre de 2020
 
 - Antipatrones en HUs: usar un formato incorrecto, no incluir
-  condiciones de satisfacción, o simplemente usar como tales 
+  condiciones de satisfacción, o simplemente usar como tales
   [lo que no lo es](https://github.com/cr13/RecetaCoctel/issues/5) [(más ejemplos)](https://github.com/Jumacasni/Terrake/issues/70) y
   [más](https://github.com/Carlossamu7/CC1-Conservatorio/issues/43). Por
   favor, no os copiéis, tratad de entender qué es lo que estáis haciendo. Vamos
@@ -55,7 +55,7 @@
        efectivamente se cumplen.
    - Todas estas observaciones irán a diferentes issues que se
      enlazarán en un apartado más abajo.
-     
+
 ### Enlaces a issues, PRs, comentarios en la actividad anterior
 
 #### [UniTradicional](https://github.com/ccvaillant1992/UniTradicional/issues)
@@ -67,6 +67,45 @@
 - [Comentarios HU6](https://github.com/ccvaillant1992/UniTradicional/issues/19)
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
+
+
+#### [MedAuth](https://github.com/Carlosma7/MedAuth/)
+- [Issue](https://github.com/Carlosma7/MedAuth/issues/87)
+
+#### [Shop-safe](https://github.com/januszewskimar/shop-safe)
+
+- [Issue sobre comentarios del código](https://github.com/januszewskimar/shop-safe/issues/76)
+- [Issue sobre errores comunes encontrados en HUs](https://github.com/januszewskimar/shop-safe/issues/77)
+
+#### [Recetas Coctel](https://github.com/ccvaillant1992/UniTradicional/issues)
+
+- [Enlace al primer comentario](https://github.com/cr13/RecetaCoctel/issues/22)
+- [Enlace al segundo comentario](https://github.com/cr13/RecetaCoctel/issues/6)
+- [Enlace al tercer comentario](https://github.com/cr13/RecetaCoctel/issues/5)
+#### [Sharing notes](https://github.com/mjls130598/SharingNotes)
+
+- [HU Registro de usuarios](https://github.com/mjls130598/SharingNotes/issues/10)
+- [Especificar modelos](https://github.com/mjls130598/SharingNotes/issues/57)
+
+#### [CC1-Conservatorio](https://github.com/Carlossamu7/CC1-Conservatorio)
+
+- [Comentario HU1](https://github.com/Carlossamu7/CC1-Conservatorio/issues/12)
+- [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
+- [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
+
+#### [Car-finder](https://github.com/pabloalfaro/Car-finder)
+
+- [[HU] Quiero poder anunciar los coches. #8](https://github.com/pabloalfaro/Car-finder/issues/8)
+- [Comentario 1](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746515362)
+- [Comentario 2](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746518335)
+- [Comentario 3](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746523210)
+- [Comentario 4](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746537761)
+
+#### [SIGA-Cloud](https://github.com/kcobos/SIGA-Cloud)
+* [Comentario dentro de un issue sobre el desconocimiento de algunos aspectos mencionados en él.](https://github.com/kcobos/SIGA-Cloud/issues/17#issuecomment-746546676)
+* [Issue para indicar que los test no están referenciados en su correspondiente historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/31)
+* [Comentario sobre un error cometido dentro de la información de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746539621)
+* [Comentario sobre el desconocimiento de algunos aspectos de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746547445)
 
 #### [LyricsHunter](https://github.com/AngelValera/LyricsHunter)
 
@@ -81,7 +120,7 @@
 - Cómo *no* almacenar los datos
   y
   [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).
-  
+
 - Cómo tratar con APIs externos. En una palabra: desacoplar.
   - Hacer un API que llame a otro API no deja de ser un antipatrón, y
     no tiene valor añadido.
