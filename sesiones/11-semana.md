@@ -58,6 +58,16 @@
      
 ### Enlaces a issues, PRs, comentarios en la actividad anterior
 
+#### [UniTradicional](https://github.com/ccvaillant1992/UniTradicional/issues)
+
+- [Issue para añadir una HU que explique que es un evento](https://github.com/ccvaillant1992/UniTradicional/issues/48)
+- [Issue para añadir una HU que explique que es un combo](https://github.com/ccvaillant1992/UniTradicional/issues/47)
+- [Comentarios HU9](https://github.com/ccvaillant1992/UniTradicional/issues/22)
+- [Comentarios HU7](https://github.com/ccvaillant1992/UniTradicional/issues/20)
+- [Comentarios HU6](https://github.com/ccvaillant1992/UniTradicional/issues/19)
+- [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
+- [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
+
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
