@@ -84,6 +84,14 @@
 - [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
 - [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
 
+#### [Car-finder](https://github.com/pabloalfaro/Car-finder)
+
+- [[HU] Quiero poder anunciar los coches. #8](https://github.com/pabloalfaro/Car-finder/issues/8)
+- [Comentario 1](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746515362)
+- [Comentario 2](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746518335)
+- [Comentario 3](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746523210)
+- [Comentario 4](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746537761)
+
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
