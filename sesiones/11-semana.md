@@ -68,10 +68,17 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+
 #### [Shop-safe](https://github.com/januszewskimar/shop-safe)
 
 - [Issue sobre comentarios del código](https://github.com/januszewskimar/shop-safe/issues/76)
 - [Issue sobre errores comunes encontrados en HUs](https://github.com/januszewskimar/shop-safe/issues/77)
+
+#### [Recetas Coctel](https://github.com/ccvaillant1992/UniTradicional/issues)
+
+- [Enlace al primer comentario](https://github.com/cr13/RecetaCoctel/issues/22)
+- [Enlace al segundo comentario](https://github.com/cr13/RecetaCoctel/issues/6)
+- [Enlace al tercer comentario](https://github.com/cr13/RecetaCoctel/issues/5)
 
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
