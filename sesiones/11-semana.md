@@ -68,9 +68,41 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+<<<<<<< HEAD
 #####[FIND4CAR](https://github.com/Neo-Stark/FIND4CAR)
 
 -  [Comentarios HU](https://github.com/Neo-Stark/FIND4CAR/issues/9#issuecomment-746503602)
+=======
+
+#### [Shop-safe](https://github.com/januszewskimar/shop-safe)
+
+- [Issue sobre comentarios del código](https://github.com/januszewskimar/shop-safe/issues/76)
+- [Issue sobre errores comunes encontrados en HUs](https://github.com/januszewskimar/shop-safe/issues/77)
+
+#### [Recetas Coctel](https://github.com/ccvaillant1992/UniTradicional/issues)
+
+- [Enlace al primer comentario](https://github.com/cr13/RecetaCoctel/issues/22)
+- [Enlace al segundo comentario](https://github.com/cr13/RecetaCoctel/issues/6)
+- [Enlace al tercer comentario](https://github.com/cr13/RecetaCoctel/issues/5)
+#### [Sharing notes](https://github.com/mjls130598/SharingNotes)
+
+- [HU Registro de usuarios](https://github.com/mjls130598/SharingNotes/issues/10)
+- [Especificar modelos](https://github.com/mjls130598/SharingNotes/issues/57)
+
+#### [CC1-Conservatorio](https://github.com/Carlossamu7/CC1-Conservatorio)
+
+- [Comentario HU1](https://github.com/Carlossamu7/CC1-Conservatorio/issues/12)
+- [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
+- [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
+
+#### [Car-finder](https://github.com/pabloalfaro/Car-finder)
+
+- [[HU] Quiero poder anunciar los coches. #8](https://github.com/pabloalfaro/Car-finder/issues/8)
+- [Comentario 1](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746515362)
+- [Comentario 2](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746518335)
+- [Comentario 3](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746523210)
+- [Comentario 4](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746537761)
+>>>>>>> 3b7b9d9db4e25fff4a78c09b9cd31ae29d42f00a
 
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
@@ -107,3 +139,4 @@ con plazo hasta el **8 de enero**.
 ## Siguiente semana
 
 [Duodécima semana](12-semana.md)
+
