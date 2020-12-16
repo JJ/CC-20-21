@@ -68,6 +68,15 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+#### [LyricsHunter](https://github.com/AngelValera/LyricsHunter)
+
+- [Comentario 1](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746470726)
+- [Comentario 2](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746486536)
+- [Comentario 3](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746490220)
+- [Comentario 4](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746497444)
+- [Comentario 5](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746499291)
+- [Comentario 6](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746500990)
+
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
