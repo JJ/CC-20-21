@@ -161,3 +161,10 @@
 
 - [x] Entender qué es un API [REST](http://jj.github.io/CC/documentos/temas/REST.html) y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [x] Entender la configuración de un [microservicio](http://jj.github.io/CC/documentos/temas/Microservicios.html) y otros servicios esenciales.
+
+# Objetivos de la décima semana (9 de diciembre de 2020)
+
+- [x] Revisar diferentes ejemplos de GitHub Actions y [el nuevo Travis](https://github.com/JJ/CC-20-21/blob/master/.travis.yml).
+- [x] Ver ejemplos de [CI en Azure Pipelines](https://github.com/actions/virtual-environments/pull/2206#issuecomment-739767727) y ejemplos extremos de configuración de los mismos.
+
+[Ejercicios Tema 6](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema6.md)

@@ -71,7 +71,7 @@ Correcciones principales del hito 1:
 
 [Ejercicios tema 3](https://github.com/alvarodelaflor/CC-Ejercicios/tree/main/Tema%203:%20Contenedores%20y%20c%C3%B3mo%20usarlos)
 
-# Objetivos de la sexta semana
+# Objetivos de la sexta y septima semana
 
 - [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
 - [x] Contenedores para datos
@@ -80,3 +80,15 @@ Correcciones principales del hito 1:
 - [x] Entender las claves del hito 3.
 
 [Ejercicios ampliados](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%203:%20Contenedores%20y%20c%C3%B3mo%20usarlos/tema3_2.md)
+
+# Objetivos de la octava y novena semana
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación.
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+[Ejercicios tema 4](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%204:%20Integraci%C3%B3n%20continua/tema4.md)

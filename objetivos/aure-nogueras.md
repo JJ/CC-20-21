@@ -92,4 +92,24 @@
 
 [Ejercicios del tema 3 parte 2](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3_parte2.md)
 
+# Objetivos de la octava (24 de noviembre de 2020) y la novena semana (1 de diciembre de 2020)
+
+- [x] Entender el concepto de inyección de dependencias.
+- [x] Entender las diferentes fases en el proceso de despliegue de una aplicación.
+- [x] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros objetivos
+
+- [x] Entender errores frecuentes en la entrega del hito 3.
+- [x] Entender las diferentes rúbricas del hito 4 y qué implican.
+- [x] Entender errores frecuentes del hito 2 y el hito 3.
+- [x] Entender qué es un API REST y cuáles son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [x] Entender la configuración de un microservicio y otros servicios esenciales.
+
+[Ejercicios del tema 4](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema4/ejercicios_tema4.md)
+
 

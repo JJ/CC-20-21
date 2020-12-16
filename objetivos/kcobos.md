@@ -90,9 +90,64 @@
 
 - [X] Entender la construcción de una imagen de Docker, y sus casos de uso.
 
-## Otros objetivos
+### Otros objetivos
 
-- [ ] Contenedores para datos
+- [X] Contenedores para datos
 - [X] Contenedores generales
 - [X] Cómo depurar contenedores.
 - [X] Entender las claves del hito 3.
+
+## Objetivos séptima semana
+
+- [X] Entender qué es la integración/despliegue continuo y por qué son importantes en el concepto de cloud.
+
+### Otros objetivos
+
+- [X] Optimizar imágenes Docker <https://github.com/kcobos/Ejercicios-CC/blob/master/Tema3/Comparacion_imagenes.md>
+- [X] Darse de alta en Travis. <https://travis-ci.org/github/kcobos>
+- [X] Darse de alta en otros sitios de integración continua. <https://circleci.com/>
+- [X] Entender qué son las GitHub actions. <https://github.com/kcobos/SIGA-Cloud/blob/main/.github/workflows/ghcr_publish.yml>
+- [X] Otros sistemas de CI/CD y qué interés específico tienen.
+- [X] Buenas prácticas en sistemas de CI
+
+## Objetivos octava semana
+
+- [X] Entender el concepto de inyección de dependencias.
+- [ ] Entender las diferentes fases en el proceso de despliegue de una aplicación.
+
+### Otros objetivos
+
+- [ ] Entender errores frecuentes en la entrega del hito 3.
+  - [X] Entender qué crea capas y qué problemas crea eso.
+    - [X] Usar repetición de órdenes sólo cuando sea necesario
+  - [X] Entender para qué sirve realmente la construcción en dos fases
+  - [X] Entender dónde y cuando se establecen los directorios de trabajo
+  - [X] Entender las etiquetas obsoletas
+  - [X] El gestor de tareas está para algo.
+  - [X] Malas prácticas como copiar cosas al directorio compartido.
+  - [X] Si copias un Dockerfile, tienes también que explicar qué hace cada orden.
+  - [X] No se pueden copiar los fuentes.
+  - [X] VOLUME realmente no hace falta.
+  - [X] ¿hace falta git o curl una vez que se haya descargado lo que sea? No
+- [ ] Entender las diferentes rúbricas del hito 4 y qué implican.
+
+## Objetivos novena semana
+
+- [X] Entender la arquitectura en capas de los microservicios usados en despliegues modernos.
+- [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [X] Entender el papel de los contenedores en la infraestructura virtual.
+- [X] Comprender los procesos de definición de contenedores.
+
+### Otros objetivos
+
+- [ ] Errores hito 2:
+  - [X] No se explica la configuración de la herramienta de gestión de tareas, que es lo que se pedía. Ni siquiera se hace bien en la mayoría de los casos. No se usan reglas, ni plugins, ni configuraciones por omisión ni conexión entre objetivos (por ejemplo, build y test).
+  - [ ] No uso o uso incorrecto de fixups o setups.
+- [X] Errores frecuentes hito 3:
+  - [X] Se dijo explícitamente que no se hiciera la comparación mínima lenguaje, lenguaje-slim, lenguaje-alpine, porque iba a ganar alpine. Pero es que si ni siquiera se hace la comparación con alpine, es peor todavía.
+  - [X] El README es el de un proyecto. Acumular cosas de diferentes hitos sin orden y sin que explique lo que hace el proyecto, no corresponde a lo que se pide.
+  - [X] Algunos habéis puesto que está deshabilitado la reconstrucción para imagen base, con lo que una de las ventajas de usar Docker Hub la estáis eliminando. Mirad por favor qué significa cada cosa.
+  - [X] Por supuesto, hay que usar el usuario sin privilegios, no sólo definirlo.
+- [X] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
+- [X] Entender la configuración de un microservicio y otros servicios esenciales
