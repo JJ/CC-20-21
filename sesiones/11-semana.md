@@ -68,11 +68,9 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
-<<<<<<< HEAD
 #####[FIND4CAR](https://github.com/Neo-Stark/FIND4CAR)
 
 -  [Comentarios HU](https://github.com/Neo-Stark/FIND4CAR/issues/9#issuecomment-746503602)
-=======
 
 #### [Shop-safe](https://github.com/januszewskimar/shop-safe)
 
@@ -102,7 +100,6 @@
 - [Comentario 2](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746518335)
 - [Comentario 3](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746523210)
 - [Comentario 4](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746537761)
->>>>>>> 3b7b9d9db4e25fff4a78c09b9cd31ae29d42f00a
 
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
