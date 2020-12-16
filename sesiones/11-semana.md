@@ -74,6 +74,12 @@
 - [Enlace al segundo comentario](https://github.com/cr13/RecetaCoctel/issues/6)
 - [Enlace al tercer comentario](https://github.com/cr13/RecetaCoctel/issues/5)
 
+#### [CC1-Conservatorio](https://github.com/Carlossamu7/CC1-Conservatorio)
+
+- [Comentario HU1](https://github.com/Carlossamu7/CC1-Conservatorio/issues/12)
+- [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
+- [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
+
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
