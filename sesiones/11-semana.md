@@ -32,7 +32,7 @@
 ## Práctica 16 de diciembre de 2020
 
 - Antipatrones en HUs: usar un formato incorrecto, no incluir
-  condiciones de satisfacción, o simplemente usar como tales 
+  condiciones de satisfacción, o simplemente usar como tales
   [lo que no lo es](https://github.com/cr13/RecetaCoctel/issues/5) [(más ejemplos)](https://github.com/Jumacasni/Terrake/issues/70) y
   [más](https://github.com/Carlossamu7/CC1-Conservatorio/issues/43). Por
   favor, no os copiéis, tratad de entender qué es lo que estáis haciendo. Vamos
@@ -55,7 +55,7 @@
        efectivamente se cumplen.
    - Todas estas observaciones irán a diferentes issues que se
      enlazarán en un apartado más abajo.
-     
+
 ### Enlaces a issues, PRs, comentarios en la actividad anterior
 
 #### [UniTradicional](https://github.com/ccvaillant1992/UniTradicional/issues)
@@ -84,11 +84,17 @@
 - [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
 - [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
 
-## Práctica 22 de diciembre 
+#### [SIGA-Cloud](https://github.com/kcobos/SIGA-Cloud)
+* [Comentario dentro de un issue sobre el desconocimiento de algunos aspectos mencionados en él.](https://github.com/kcobos/SIGA-Cloud/issues/17#issuecomment-746546676)
+* [Issue para indicar que los test no están referenciados en su correspondiente historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/31)
+* [Comentario sobre un error cometido dentro de la información de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746539621)
+* [Comentario sobre el desconocimiento de algunos aspectos de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746547445)
+
+## Práctica 22 de diciembre
 - Cómo *no* almacenar los datos
   y
   [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).
-  
+
 - Cómo tratar con APIs externos. En una palabra: desacoplar.
   - Hacer un API que llame a otro API no deja de ser un antipatrón, y
     no tiene valor añadido.
