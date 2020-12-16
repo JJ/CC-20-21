@@ -68,6 +68,14 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+#### [MedAuth](https://github.com/Carlosma7/MedAuth/)
+- [Issue](https://github.com/Carlosma7/MedAuth/issues/87)
+
+#### [Shop-safe](https://github.com/januszewskimar/shop-safe)
+
+- [Issue sobre comentarios del código](https://github.com/januszewskimar/shop-safe/issues/76)
+- [Issue sobre errores comunes encontrados en HUs](https://github.com/januszewskimar/shop-safe/issues/77)
+
 #### [Recetas Coctel](https://github.com/ccvaillant1992/UniTradicional/issues)
 
 - [Enlace al primer comentario](https://github.com/cr13/RecetaCoctel/issues/22)
@@ -84,13 +92,21 @@
 - [Comentario HU5](https://github.com/Carlossamu7/CC1-Conservatorio/issues/16)
 - [Comentario HU4](https://github.com/Carlossamu7/CC1-Conservatorio/issues/15)
 
+#### [Car-finder](https://github.com/pabloalfaro/Car-finder)
+
+- [[HU] Quiero poder anunciar los coches. #8](https://github.com/pabloalfaro/Car-finder/issues/8)
+- [Comentario 1](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746515362)
+- [Comentario 2](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746518335)
+- [Comentario 3](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746523210)
+- [Comentario 4](https://github.com/pabloalfaro/Car-finder/issues/8#issuecomment-746537761)
+
 #### [SIGA-Cloud](https://github.com/kcobos/SIGA-Cloud)
 * [Comentario dentro de un issue sobre el desconocimiento de algunos aspectos mencionados en él.](https://github.com/kcobos/SIGA-Cloud/issues/17#issuecomment-746546676)
 * [Issue para indicar que los test no están referenciados en su correspondiente historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/31)
 * [Comentario sobre un error cometido dentro de la información de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746539621)
 * [Comentario sobre el desconocimiento de algunos aspectos de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746547445)
 
-## Práctica 22 de diciembre
+## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
   [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).
