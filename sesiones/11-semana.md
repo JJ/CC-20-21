@@ -73,6 +73,10 @@
 - [Enlace al primer comentario](https://github.com/cr13/RecetaCoctel/issues/22)
 - [Enlace al segundo comentario](https://github.com/cr13/RecetaCoctel/issues/6)
 - [Enlace al tercer comentario](https://github.com/cr13/RecetaCoctel/issues/5)
+#### [Sharing notes](https://github.com/mjls130598/SharingNotes)
+
+- [HU Registro de usuarios](https://github.com/mjls130598/SharingNotes/issues/10)
+- [Especificar modelos](https://github.com/mjls130598/SharingNotes/issues/57)
 
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
