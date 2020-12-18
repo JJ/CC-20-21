@@ -51,7 +51,15 @@
 - [x] Terminados ejericios tema 3.
 - [x] Reparar errores en configuración de Docker containers.
 
-[Ejercicios tema 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3)
+### Ejercicios tema 3
+- [Ejercicio 1](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.1.md)
+- [Ejercicio 2](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.2.md)
+- [Ejercicio 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.3.md)
+- [Ejercicio 4](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.4.md)
+- [Ejercicio 5](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.5.md)
+- [Ejercicio 6](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.6.md)
+- [Ejercicio 7](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.7.md)
+- [Ejercicio 8](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3/Exercise-3.8.md)
 
 ## Objetivos del tercer tema - Integración Contínua
 
