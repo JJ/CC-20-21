@@ -49,6 +49,7 @@
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
 - [x] Terminados ejericios tema 3.
+- [x] Reparar errores en configuración de Docker containers.
 
 [Ejercicios tema 3](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter3)
 
@@ -76,4 +77,4 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
-[Ejercicios tema 5](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter5)
+[Ejercicios tema 5](https://github.com/gabcas28/Exercises-CC/tree/main/)
