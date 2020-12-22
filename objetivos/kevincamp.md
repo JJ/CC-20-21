@@ -29,3 +29,16 @@
 - [x] Entender la diferencia entre gestor de tareas, gestor de dependencias, build tool. 
 
 [Ejercicios Tema 2](https://github.com/Kevincamp/CC-20-21-Exercises/blob/main/02.md)
+
+# Objetivos cuarta semana
+- [x] Entender los errores comunes en el hito 1.
+- [x] No enlazar la clase que se ha programado.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+# Objetivos quinta semana
+- [x] Entender la construcción de una imagen de Docker, y sus casos de uso.
+- [x] Conocer buenas prácticas.
+- [x] Distinguir entre contenedores para datos y contenedores generales.
+- [x] Volumenes en Docker, su uso.
+[Ejercicios Tema 3](https://github.com/Kevincamp/CC-20-21-Exercises/blob/main/03.md)
