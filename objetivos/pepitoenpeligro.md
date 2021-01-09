@@ -116,3 +116,4 @@
 
 [Ejercicios Tema 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md)
 [Proceso de aprendizaje sobre frameworks web](https://github.com/pepitoenpeligro/cloudbanking/issues/70)
+[Proceso de aprendizaje sobre el diseño de una api](https://github.com/pepitoenpeligro/cloudbanking/issues/71)
