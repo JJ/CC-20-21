@@ -107,4 +107,12 @@
 
 [Ejercicios del Tema 4 - Config Travis](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5) Corresponde a Ejercicio 1 y 2 del [Tema de Integración Continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html) y está empaquetado todo en 1 único ejercicios, así es más fácil de seguir.
 
+# Objetivos a cubrir durante las vacaciones de Navidades
+- [x] Entender el concepto de API REST
+- [x] Comprender el concepto de microservicio
+- [x] Comprender las diferencias entre las arquitecturas monolíticas y otrass creadas para al nube.
+- [x] Enteder qué papel juega la inyección de dependencias en el diseño de nuestros microservicios. 
 
+
+[Ejercicios Tema 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md)
+[Proceso de aprendizaje sobre frameworks web](https://github.com/pepitoenpeligro/cloudbanking/issues/70)
