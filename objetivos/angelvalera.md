@@ -213,6 +213,7 @@
 - [x] Comprobar crédito restante en Travis.
 - [x] Entender errores frecuentes en la entrega.
 - [x] Instalar podman.
+- [x] Poner al día el fichero de objetivos 
 
 ---
 
