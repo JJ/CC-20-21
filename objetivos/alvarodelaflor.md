@@ -100,3 +100,11 @@ Correcciones principales del hito 1:
 - [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
 [Ejercicios tema 5](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%205:%20Microservicios/tema5.md)
+
+# Objetivos de la duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+
+[Ejercicio Aplicaciones monolíticas vs microservicios](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Ejercicios%20Auxiliares/aux1.md)
+Se ha realizado un estudio de las direrentes alternativas para el uso de API REST con microservicios en este [enlace](https://github.com/alvarodelaflor/CoronaAlert/#microservice)
