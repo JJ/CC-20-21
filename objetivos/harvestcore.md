@@ -108,4 +108,29 @@
 - [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [x] Entender la configuración de un microservicio y otros servicios esenciales.
 
-[Ejercicios tema microservicios](https://github.com/harvestcore/CCExercises/blob/master/exercises/microservices/microservices.md)
+## Décima semana
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+- [x] Entender algunas buenas prácticas en el desarrollo de software.
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+
+## Undécima semana
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entregar los hitos atrasados y ponerse al día.
+- [x] Entender errores frecuentes en el último hito.
+
+## Duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+- [x] Revisar buenas prácticas en APIs REST. Tests de rutas y por qué se deben separar de la aplicación en sí.
+- [x] Aprender cómo no almacenar los datos y buscar en los mismos.
+- [x] Aprender a tratar con APIs externos.
+- [x] Tener en cuenta los ritmos de variación y sobre todo los roles de cada uno de ellos.
+- [x] Comprender los errores frecuentes en el hito 4.
+
+[Ejercicios del tema de microservicios](https://github.com/harvestcore/CCExercises/blob/master/exercises/microservices/microservices.md)
