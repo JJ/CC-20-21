@@ -133,5 +133,7 @@
 - [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. 
 - [x] Errores frecuentes en el 4º hito.
 
+[Ejercicios del tema 5](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema5/ejercicios_tema5.md)
+
 
 
