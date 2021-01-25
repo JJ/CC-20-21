@@ -126,3 +126,14 @@
 - [x] Errores frecuentes en el 4º hito.
 
 [Ejercicios tema 5](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema5.md)
+
+# Objetivos de la decimotercera semana
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+
+[Tutorial sobre frameworks asíncronos python](https://github.com/Carlosma7/EJERCICIOS-CC/blob/72cb5782b22f0ee87a03dbec983e56034dc99fae/Ejercicios/tutoriales/frameworks.md)
+
+
+
