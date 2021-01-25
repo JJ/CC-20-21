@@ -96,3 +96,31 @@
 - [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
 
 [Autoevaluación 4](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema4/tema4.md)
+
+# Objetivos a cubir en la undécima semana 
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+- [x] Entender las rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+
+# Objetivos a cubir en la duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+- [x] Revisar las buenas prácticas en APIs REST.
+- [x] Entender cómo no almacenar los datos y buscar en los mismos.
+- [x] Entender cómo tratar con APIs externos. En una palabra: desacoplar.
+- [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. 
+
+# Objetivos a cubir en la décimo tercera semana 
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+- [x] Conocer las técnicas para poner microservicios en producción.
+- [x] Introducción a la composición de servicios con Docker Compose.
+- [x] Comprobar crédito restante en Travis.
+- [x] Instalar podman.
+- [x] Entender qué hay que meter en un grupo de docker compose.
+
+[Autoevaluación 5](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema5/tema5.md)

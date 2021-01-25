@@ -1,0 +1,16 @@
+name: "Comprobaciones adicionales"
+on:
+  pull_request:
+    paths:
+      - 'proyectos/*.md'
+
+jobs:
+  perl_checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descarga repo usuario y decodifica configuración
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Ejecuta tests en Perl
+        run: prove -c

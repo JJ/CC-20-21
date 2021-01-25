@@ -49,7 +49,7 @@ todo el mundo.
 Se puede entregar ya
 el
 [quinto hito](http://jj.github.io/CC/documentos/proyecto/5.Microservicio.html),
-con plazo hasta el **8 de enero**.
+con plazo hasta el **18 de enero** a las 00:01.
 
 ## Siguiente semana
 

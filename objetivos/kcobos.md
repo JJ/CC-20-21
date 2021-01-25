@@ -141,9 +141,9 @@
 
 ### Otros objetivos
 
-- [ ] Errores hito 2:
+- [X] Errores hito 2:
   - [X] No se explica la configuración de la herramienta de gestión de tareas, que es lo que se pedía. Ni siquiera se hace bien en la mayoría de los casos. No se usan reglas, ni plugins, ni configuraciones por omisión ni conexión entre objetivos (por ejemplo, build y test).
-  - [ ] No uso o uso incorrecto de fixups o setups.
+  - [X] No uso o uso incorrecto de fixups o setups.
 - [X] Errores frecuentes hito 3:
   - [X] Se dijo explícitamente que no se hiciera la comparación mínima lenguaje, lenguaje-slim, lenguaje-alpine, porque iba a ganar alpine. Pero es que si ni siquiera se hace la comparación con alpine, es peor todavía.
   - [X] El README es el de un proyecto. Acumular cosas de diferentes hitos sin orden y sin que explique lo que hace el proyecto, no corresponde a lo que se pide.
@@ -156,3 +156,17 @@
 
 - <https://github.com/mjls130598/SharingNotes/issues/10>
 - <https://github.com/mjls130598/SharingNotes/issues/57>
+
+## Décima semana
+
+- [X] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+
+### Otros objetivos
+
+- [X] Entender algunas buenas prácticas en el desarrollo de software
+  - [X] DRY: don't repeat yourself. Si hay líneas de código repetidas, está pidiendo un bucle.
+  - [X] No usar nunca literales en el código, y menos en los tests. Usar o constantes o variables.
+- [X] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [ ] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+
+[Ejercicios tema 4](https://github.com/kcobos/Ejercicios-CC/tree/master/Tema4)

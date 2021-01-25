@@ -145,3 +145,52 @@ Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-
 
 Los ejercicios del tema 4 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-4.md).
 
+# Décima semana
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+
+## Otros objetivos
+
+- [x] Entender algunas buenas prácticas en el desarrollo de software
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+
+# Undécima semana
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+
+## Otros objetivos
+
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entregar los hitos atrasados y ponerse al día.
+- [x] Entender errores frecuentes en el último hito
+
+# Duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+
+## Otros objetivos
+
+- [x] Revisitamos buenas prácticas en APIs REST. . Tests de rutas y por qué se deben separar de la aplicación en sí
+- [x] Cómo no almacenar los datos y buscar en los mismos.
+- [x] Cómo tratar con APIs externos. En una palabra: desacoplar.
+- [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. En particular, no todo lo que haga el backend debe ir al API externo. Dado que se va a trabajar con una "single source of truth", puede haber diferentes "aplicaciones" que trabajen frente a esa SSOT. Por ejemplo, uno que lo "pueble" y otro que lo sirva.
+- [x] Errores frecuentes en el 4º hito
+
+# Décimo tercera semana
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+
+## Otros objetivos
+
+- [x] Conocer las técnicas para poner microservicios en producción.
+- [x] Introducción a la composición de servicios con Docker Compose Composicion_de_contenedores.
+- [x] Comprobar crédito restante en Travis.
+- [x] Entender errores frecuentes en la entrega.
+- [x] Instalar podman.
+
+Los ejercicios del tema 6 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-6.md).

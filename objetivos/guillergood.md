@@ -58,7 +58,7 @@
 - [x] Revisar el valor de "code coverage" en mi proyecto
 - [x] Realizar un reenvío con las correcciones del hito 1.
 
-[Ejercicios tema 3](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%203/Ejercicios.md)
+[Ejercicios tema 3](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%203/%23%20Ejercicios%20del%20tema%203.md)
 
 ## Objetivos de la quinta semana
 
@@ -88,5 +88,24 @@
 - [x] Comprender errores realizados en hitos anteriores.
 - [x] Interiorizar buenas prácticas de composición de proyecto.
 
-[Ejercicios tema 4](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%204/Ejercicios.md)
+[Ejercicios tema 4](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%204/%23%20Ejercicios%20del%20tema%204.md)
 
+# Objetivos de la décima semana
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+- [x] DRY: don't repeat yourself.
+# Objetivos de la undécima semana
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+- [x] Antipatrones en HUs. 
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entender errores frecuentes en el último hito.
+
+# Objetivos de la duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+- [x] Revisitamos buenas prácticas en APIs REST. Tests de rutas y por qué se deben separar de la aplicación en sí
+
+[Ejercicios tema 5](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%205/%23%20Ejercicios%20del%20tema%205.md)

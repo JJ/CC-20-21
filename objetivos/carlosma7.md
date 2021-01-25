@@ -103,3 +103,26 @@
 
 [Ejercicios tema 4](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema4.md)
 
+# Objetivos de la décima semana
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+
+# Objetivos de la undécima semana
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entregar los hitos atrasados y ponerse al día.
+- [x] Entender errores frecuentes en el último hito.
+
+# Objetivos de la duodécima semana
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+- [x] Revisitamos buenas prácticas en APIs REST. . Tests de rutas y por qué se deben separar de la aplicación en sí
+- [x] Cómo no almacenar los datos y buscar en los mismos.
+- [x] Cómo tratar con APIs externos. En una palabra: desacoplar.
+- [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. En particular, no todo lo que haga el backend debe ir al API externo. Dado que se va a trabajar con una "single source of truth", puede haber diferentes "aplicaciones" que trabajen frente a esa SSOT. Por ejemplo, uno que lo "pueble" y otro que lo sirva.
+- [x] Errores frecuentes en el 4º hito.
+
+[Ejercicios tema 5](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema5.md)

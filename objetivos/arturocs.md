@@ -273,8 +273,6 @@
   - Arrancar el microservicio. Se recuerda que únicamente se tienen que testear las rutas, en principio no sería necesario arrancar el microservicio.
 - [ ] Instalar [podman](https://podman.io).
 
-[Ejercicios tema 5](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_5.md)
-
 
 ## Objetivos de la décimo cuarta semana
 
@@ -293,3 +291,6 @@
 - [x] Tratar de evitar los códigos de estado "raros" como "No content". Si una cosa no existe, no es que no tenga contenido, es que debe devolver un 404.
 - [x] Cada comando tiene su especificidad. PUT y POST no pueden hacer exactamente lo mismo, por ejemplo: POST modificaría sólo parte de un recurso. Código redundante no ayuda a nada.
 - [ ] Sobre la configuración: Poner a jopo los puertos o cualquier otro valor de configuración es un error bastante grande.
+
+[Ejercicios tema 5](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_5.md)
+
