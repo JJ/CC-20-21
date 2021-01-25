@@ -108,3 +108,12 @@ Correcciones principales del hito 1:
 
 [Ejercicio Aplicaciones monolíticas vs microservicios](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Ejercicios%20Auxiliares/aux1.md)
 Se ha realizado un estudio de las direrentes alternativas para el uso de API REST con microservicios en este [enlace](https://github.com/alvarodelaflor/CoronaAlert/#microservice)
+
+# Objetivos de la décimo cuarta semana
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+[Ejercicio tema 6 primera parte](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%206:%20Composici%C3%B3n%20de%20Servicios/tema6.md)
