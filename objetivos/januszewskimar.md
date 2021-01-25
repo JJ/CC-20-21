@@ -194,3 +194,18 @@ Los ejercicios del tema 4 se pueden consultar [aquí](https://github.com/janusze
 - [x] Instalar podman.
 
 Los ejercicios del tema 6 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-6.md).
+
+# Décimo cuarta semana
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+## Otros objetivos
+
+- [x] Entender cómo usar podman para creación de pods
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega.
+
+Los ejercicios del tema 7 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md).
