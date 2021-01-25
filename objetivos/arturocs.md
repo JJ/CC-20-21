@@ -273,24 +273,4 @@
   - Arrancar el microservicio. Se recuerda que únicamente se tienen que testear las rutas, en principio no sería necesario arrancar el microservicio.
 - [ ] Instalar [podman](https://podman.io).
 
-
-## Objetivos de la décimo cuarta semana
-
-- [x]     Comprender los caso de uso de sistemas de composición de servicios básicos.
-- [ ]     Entender cómo se configura un pod o cluster
-- [ ]     Configurar las aplicaciones para que formen parte de un cluster con servicios.
-- [ ] Saber qué servicios son imprescindibles en un pod o clúster.
-- [ ] Entender cómo usar podman para creación de pods
-- [ ] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
-- [x] Entender errores frecuentes en la entrega.
-- [x] Dockerfile es una extensión. Dockerfile_execute: incorrecto. execute.Dockerfile: correcto.
-- [x] Sobre el API: Debería enlazarse explícitamente cada ruta a qué HU corresponde.
-- [x] Los verbos en el API, en general, sobran si se actúa sobre un URI. Los únicos verbos que hacen falta en principio son los de HTTP. Pueden usarse verbos adicionales si es que se van a devolver muchos recursos, pero no sobre uno solo.
-- [x] Los URIs deben ser plural; así se evitan cosas como tener que usar un path adicional para recuperar todos los URIs. GET /recursos/3 sería un URI, GET /recursos devolvería todos los recursos.
-- [x] Evitar el nombre de la aplicación en las rutas del API. O la palabra "api". Peor todavía si todas las rutas lo usan como segundo elemento del path en vez de el primero.
-- [x] Tratar de evitar los códigos de estado "raros" como "No content". Si una cosa no existe, no es que no tenga contenido, es que debe devolver un 404.
-- [x] Cada comando tiene su especificidad. PUT y POST no pueden hacer exactamente lo mismo, por ejemplo: POST modificaría sólo parte de un recurso. Código redundante no ayuda a nada.
-- [ ] Sobre la configuración: Poner a jopo los puertos o cualquier otro valor de configuración es un error bastante grande.
-
 [Ejercicios tema 5](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_5.md)
-
