@@ -292,5 +292,4 @@
 - [x] Evitar el nombre de la aplicación en las rutas del API. O la palabra "api". Peor todavía si todas las rutas lo usan como segundo elemento del path en vez de el primero.
 - [x] Tratar de evitar los códigos de estado "raros" como "No content". Si una cosa no existe, no es que no tenga contenido, es que debe devolver un 404.
 - [x] Cada comando tiene su especificidad. PUT y POST no pueden hacer exactamente lo mismo, por ejemplo: POST modificaría sólo parte de un recurso. Código redundante no ayuda a nada.
-- [x] Sobre la configuración
-- [ ] Poner a jopo los puertos o cualquier otro valor de configuración es un error bastante grande.
+- [ ] Sobre la configuración: Poner a jopo los puertos o cualquier otro valor de configuración es un error bastante grande.
