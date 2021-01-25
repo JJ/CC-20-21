@@ -104,18 +104,6 @@ EOC
     my $dockerfile_content =   read_text( "$repo_dir/$dockerfiles[0]");
     ok( $dockerfile_content !~ /COPY \.\s+/, "Se deben copiar sólo los ficheros necesarios para la construcción" );
   }
-  
-  if ( $this_hito >= 4 ) { # Tests
-    doing("hito 4");
-    isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-  }
-
-  if ( $this_hito > 4 ) { # Integración continua
-    doing("hito 4");
-    my ($m_tool) = ($README =~ m{(?:Prestaciones:)\s+(\S+)\s+});
-    ok( $m_tool, "Encontrado nombre del fichero de prestaciones $m_tool" );
-    isnt( grep( /\b$m_tool\b/, @repo_files), 0, "Fichero de prestaciones $m_tool presente" );
-  }
 
 };
 

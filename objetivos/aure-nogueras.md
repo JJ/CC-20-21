@@ -112,4 +112,28 @@
 
 [Ejercicios del tema 4](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema4/ejercicios_tema4.md)
 
+# Objetivos de la décima (9 de diciembre de 2020), undécima (15 de diciembre de 2020) y duodécima (22 de diciembre de 2020)
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+
+### Otros objetivos
+
+- [x] Entender algunas buenas prácticas en el desarrollo de software.
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entender errores frecuentes en el último hito.
+- [x] Revisitamos buenas prácticas en APIs REST. Tests de rutas y por qué se deben separar de la aplicación en sí.
+- [x] Cómo no almacenar los datos y buscar en los mismos.
+- [x] Cómo tratar con APIs externos. En una palabra: desacoplar.
+- [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. 
+- [x] Errores frecuentes en el 4º hito.
+
+[Ejercicios del tema 5](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema5/ejercicios_tema5.md)
+
+
 

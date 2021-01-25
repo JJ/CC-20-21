@@ -119,6 +119,18 @@
 #### [Crab-IoT](https://github.com/arturocs/crab-iot)
 * [Issue sobre comentarios, sugerencias y comentarios](https://github.com/arturocs/crab-iot/issues/49)
 
+#### [MedAuth](https://github.com/Carlosma7/MedAuth/)
+
+- [Issue con los comentarios, errores y sugerencias](https://github.com/Carlosma7/MedAuth/issues/90)
+
+#### [Cloud Banking](https://github.com/pepitoenpeligro/cloudbanking)
+
+* [Issue describiendo un problema que encontré al intentar contribuir al proyecto](https://github.com/pepitoenpeligro/cloudbanking/issues/56)
+
+* [PR realizado al proyecto](https://github.com/pepitoenpeligro/cloudbanking/pull/55)
+
+  
+
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y

@@ -153,7 +153,72 @@
 - [x] Comprender los errores frecuentes del hito 3.
 - [x] Entender qué es un API REST y cuales son los diferentes elementos que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las rutas.
 - [x] Entender la configuración de un microservicio y otros servicios esenciales.
+- [ ] 
 ---
+## Objetivos de la décima semana (9 de diciembre de 2020)
+
+
+- [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
+
+
+## Otros objetivos
+
+- [x] Entender algunas buenas prácticas en el desarrollo de software
+- [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
+- [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
+---
+
+## Objetivos de la undécima semana (15 de diciembre de 2020)
+
+
+- [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
+- [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
+
+
+## Otros objetivos
+
+- [x] Rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
+- [x] Entregar los hitos atrasados y ponerse al día.
+- [x] Entender errores frecuentes en el último hito 
+---
+
+## Objetivos de la duodécima semana (22 de diciembre de 2020)
+
+
+- [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
+- [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
+
+
+## Otros objetivos
+
+- [x] Revisitamos buenas prácticas en APIs REST. . Tests de rutas y por qué se deben separar de la aplicación en sí
+- [x] Cómo no almacenar los datos y buscar en los mismos.
+- [x] Cómo tratar con APIs externos. En una palabra: desacoplar.
+- [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. En particular, no todo lo que haga el backend debe ir al API externo. Dado que se va a trabajar con una "single source of truth", puede haber diferentes "aplicaciones" que trabajen frente a esa SSOT. Por ejemplo, uno que lo "pueble" y otro que lo sirva.
+- [x] Errores frecuentes en el 4º hito
+---
+
+## Objetivos de la décimo tercera semana (11 de enero de 2020)
+
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo.
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+
+
+## Otros objetivos
+
+- [x] Conocer las técnicas para poner microservicios en producción.
+- [x] Introducción a la composición de servicios con Docker Compose Composicion_de_contenedores.
+- [x] Comprobar crédito restante en Travis.
+- [x] Entender errores frecuentes en la entrega.
+- [x] Instalar podman.
+- [x] Poner al día el fichero de objetivos 
+
+---
+
+
+
 
 ## Actividades
 
@@ -164,3 +229,6 @@
 - [Ejercicios Tema 3: Contenedores y cómo usarlos](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema3.md)
 
 - [Ejercicios Tema 4: Integración continua](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema4.md)
+ 
+- [Ejercicios Tema 6: Microservicios](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema6.md)
+
