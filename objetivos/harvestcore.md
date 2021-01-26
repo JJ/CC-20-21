@@ -134,3 +134,35 @@
 - [x] Comprender los errores frecuentes en el hito 4.
 
 [Ejercicios del tema de microservicios](https://github.com/harvestcore/CCExercises/blob/master/exercises/microservices/microservices.md)
+
+## Décimo tercera semana
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+- [x] Conocer las técnicas para poner microservicios en producción.
+- [x] Introducción a la composición de servicios con Docker Compose Composicion_de_contenedores.
+- [x] Comprobar crédito restante en Travis.
+- [x] Entender errores frecuentes en la entrega.
+- [x] Arrancar el microservicio.
+- [ ] Instalar podman.
+
+## Décimo cuarta semana
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [ ] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [ ] Saber qué servicios son imprescindibles en un pod o clúster.
+- [x] Entender cómo usar podman para creación de pods
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega.
+
+## Décimo quinta semana
+
+- [x] Entender los conceptos de medición de prestaciones.
+- [ ] Aplicar a casos específicos los clústers de contenedores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x] Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto.
+- [ ] Instalar consul, otro sistema de configuración distribuida.
+
+[Ejercicios del tema de gestión de configuración (TBD)](https://github.com/harvestcore/CCExercises/blob/master/exercises/configuration_management/configuration_management.md)
