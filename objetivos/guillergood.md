@@ -109,3 +109,35 @@
 - [x] Revisitamos buenas prácticas en APIs REST. Tests de rutas y por qué se deben separar de la aplicación en sí
 
 [Ejercicios tema 5](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%205/%23%20Ejercicios%20del%20tema%205.md)
+
+# Objetivos de la decimotercera
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación,
+   más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las
+   fases de desarrollo del mismo.
+- [x] Entender los diferentes grados de infraestructura virtual y el
+   papel que tienen los PaaS dentro de los mismos.
+
+# Objetivos de la decimocuarta
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios
+  básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con
+  servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+# Objetivos de la decimoquinta
+
+- [x] Todavía se mantienen malas prácticas en el uso de issues y mensajes
+  de commit.
+- [x] Entender errores frecuentes en microservicios.
+- [x] Qué es el [middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware) y
+      como usarlo. Ver [este ejemplo actualizado](https://github.com/JJ/tests-python/blob/master/HitosIV/hugitos.py).
+- [x] El API se organiza alrededor del [concepto de recurso](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware). Primero
+      se decide qué recursos vamos a usar, luego se definen los
+      prefijos de las rutas, luego las operaciones posibles.     
+- [x] De vuelta con los códigos de estado, usar bien DELETE.
+
+[Ejercicios tema 6](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%206/%23%20Ejercicios%20del%20tema%206.md)
