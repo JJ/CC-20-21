@@ -214,10 +214,41 @@
 - [x] Entender errores frecuentes en la entrega.
 - [x] Instalar podman.
 - [x] Poner al día el fichero de objetivos 
+  
+---
+## Objetivos de la décimo cuarta semana (18 de enero de 2020)
+
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+
+## Otros objetivos
+
+- [x] Entender cómo usar podman para creación de pods
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega. 
+
+
 
 ---
 
+## Objetivos de la décimo quinta semana (25 de enero de 2020)
 
+
+- [x] Entender los conceptos de medición de prestaciones... de nuevo.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+
+
+## Otros objetivos
+
+- [x] Ponerse al día en la entrega de hitos anteriores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x] Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+---
 
 
 ## Actividades
@@ -231,4 +262,6 @@
 - [Ejercicios Tema 4: Integración continua](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema4.md)
  
 - [Ejercicios Tema 6: Microservicios](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema6.md)
+
+- [Ejercicios Tema 7: Composición de servicios](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema7.md)
 
