@@ -112,7 +112,7 @@
 
 [Ejercicios del tema 4](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema4/ejercicios_tema4.md)
 
-# Objetivos de la décima (9 de diciembre de 2020), undécima (15 de diciembre de 2020) y duodécima (22 de diciembre de 2020)
+# Objetivos de la décima (9 de diciembre de 2020), undécima (15 de diciembre de 2020) y duodécima (22 de diciembre de 2020) semana
 
 - [x] Entender los diferentes sistemas de integración continua que hay en el mercado y la organización y funcionalidad de los mismos.
 - [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
@@ -133,7 +133,37 @@
 - [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. 
 - [x] Errores frecuentes en el 4º hito.
 
-[Ejercicios del tema 5](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema5/ejercicios_tema5.md)
+[Ejercicios del tema 5 - microservicios](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema5/ejercicios_microservicios.md)
+
+# Objetivos de la decimotercera (11 de enero de 2021), decimocuarta (18 de enero de 2021) y decimoquinta (25 de enero de 2021) semana
+
+- [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
+- [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo.
+- [x] Entender los diferentes grados de infraestructura virtual y el papel que tienen los PaaS dentro de los mismos.
+- [x] Comprender los casos de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o clúster.
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+- [x] Entender los conceptos de medición de prestaciones... de nuevo.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+
+### Otros objetivos
+
+- [x] Conocer las técnicas para poner microservicios en producción.
+- [x] Introducción a la composición de servicios con Docker.
+- [x] Comprobar crédito restante en Travis.
+- [x] Entender errores frecuentes en la entrega.
+- [x] Instalar podman.
+- [x] Entender cómo usar podman para creación de pods.
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega.     
+- [x] Ponerse al día en la entrega de hitos anteriores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x] Repaso al concepto de REST: entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+
+[Ejercicios del tema 5 - gestión de configuraciones](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema5/ejercicios_configuracion.md)
+[Ejercicios del tema 6](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema6/ejercicios_tema6.md)
 
 
 
