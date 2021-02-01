@@ -70,7 +70,7 @@
 - [x] Aprender a usar integración continua en cualquier aplicación.
 - [x] Investigación sobre GitHub actions
 
-[Ejercicios tema 4](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter4)
+[Ejercicios tema 4](https://github.com/GabCas28/Exercises-CC/tree/main/Chapter4)
 
 ## Objetivos del cuarto tema - REST
 
@@ -85,4 +85,4 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
-[Ejercicios tema 5](https://github.com/gabcas28/Exercises-CC/tree/main/)
+[Ejercicios tema 5](https://github.com/GabCas28/Exercises-CC/tree/main/Chapter5)
