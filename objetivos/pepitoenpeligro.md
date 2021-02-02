@@ -117,3 +117,25 @@
 [Ejercicios Tema 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md)
 [Proceso de aprendizaje sobre frameworks web](https://github.com/pepitoenpeligro/cloudbanking/issues/70)
 [Proceso de aprendizaje sobre el diseño de una api](https://github.com/pepitoenpeligro/cloudbanking/issues/71)
+
+
+# Objetivos finales
+- [x] Comprender los casos de uso de los sistemas de composición de servicios básicos
+- [x] [Entender cómo se configura un pod o cluster](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/09.md#composición-de-contenedores)
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster
+- [x] Entender los conceptos de medición de prestaciones (benchmarking).
+- [x] Entender los sistemas de configuración.
+- [x] Instalar consul, otro sistema de configuración distribuida alternativo a etcd3.
+- [x] Entender la utilidad y los casos de las herrramientas usadas.
+- [x] Entender la metodología de aprender haciendo
+- [x] Entender qué es el Hashicorp Control language. 
+
+
+Los ejercicios de este tema: [Composición de contenedores](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/09.md#composición-de-contenedores)
+
+Ejercicios de temas adicionales que he hecho por cuenta propia:
+
+1. [Creación de infraestructuras virtuales y reproducibles](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/06.md)
+2. [Orquestación de máquinas virtuales](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md)
+3. [Desplegando aplicaciones en la nube: Uso de PaaS y DBaaS](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md)
