@@ -136,4 +136,22 @@
 [Tutorial sobre frameworks asíncronos python](https://github.com/Carlosma7/EJERCICIOS-CC/blob/72cb5782b22f0ee87a03dbec983e56034dc99fae/Ejercicios/tutoriales/frameworks.md)
 
 
+# Objetivos de la decimocuarta semana
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+# Objetivos de la decimoquinta semana
+
+- [x] Entender los conceptos de medición de prestaciones... de nuevo.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+
+# Objetivos de la decimosexta semana
+
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+
+[Tutorial sobre provisionamiento en Digital Ocean](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tutoriales/digital_ocean.md)
 
