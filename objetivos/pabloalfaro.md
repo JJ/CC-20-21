@@ -90,20 +90,20 @@
 - [x] Entender el papel de los contenedores en la infraestructura virtual.
 - [x] Comprender los procesos de definición de contenedores.
 
-# Objetivos a cubir en la décima semana 
+## Objetivos a cubir en la décima semana 
 
 - [x] Revisar diferentes ejemplos de GitHub Actions y el nuevo Travis.
 - [x] Ver ejemplos de CI en Azure Pipelines y ejemplos extremos de configuración de los mismos.
 
 [Autoevaluación 4](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema4/tema4.md)
 
-# Objetivos a cubir en la undécima semana 
+## Objetivos a cubir en la undécima semana 
 
 - [x] Entender los conceptos fundamentales de una arquitectura de microservicios.
 - [x] Entender el concepto de desacoplamiento y lo que conlleva en el diseño de una aplicación.
 - [x] Entender las rutas y middleware, y cómo hacer el desacoplamiento de una y de otra.
 
-# Objetivos a cubir en la duodécima semana
+## Objetivos a cubir en la duodécima semana
 
 - [x] Entender el concepto de API REST para interaccionar con microservicios en la nube.
 - [x] Entender las diferencias de arquitectura entre monolíticas y otras creadas para la nube.
@@ -112,7 +112,7 @@
 - [x] Entender cómo tratar con APIs externos. En una palabra: desacoplar.
 - [x] Entender los diferentes modos de acceso de una aplicación y en especial el acceso a la lógica de negocio. 
 
-# Objetivos a cubir en la décimo tercera semana 
+## Objetivos a cubir en la décimo tercera semana 
 
 - [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
 - [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
@@ -124,3 +124,29 @@
 - [x] Entender qué hay que meter en un grupo de docker compose.
 
 [Autoevaluación 5](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema5/tema5.md)
+
+## Objetivos a cubir en la décimo cuarta semana 
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+- [x] Entender cómo usar podman para creación de pods
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+
+## Objetivos a cubir en la décimo quinta semana 
+
+- [x] Entender los conceptos de medición de prestaciones.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x] Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+
+## Objetivos a cubir en la décimo sexta semana 
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+
+[Autoevaluación 6](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema6/tema6.md)
+
