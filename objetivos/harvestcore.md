@@ -145,7 +145,7 @@
 - [x] Comprobar crédito restante en Travis.
 - [x] Entender errores frecuentes en la entrega.
 - [x] Arrancar el microservicio.
-- [ ] Instalar podman.
+- [x] Instalar podman.
 
 ## Décimo cuarta semana
 
@@ -166,3 +166,15 @@
 - [ ] Instalar consul, otro sistema de configuración distribuida.
 
 [Ejercicios del tema de gestión de configuración (TBD)](https://github.com/harvestcore/CCExercises/blob/master/exercises/configuration_management/configuration_management.md)
+
+## Décimo sexta semana
+
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+- [ ] Entender qué es HCL (Hashicorp Control language).
+- [x] Resolver problemas que hayan surgido para el último hito.
+- [x] Entender la convocatoria extraordinaria.
+
+[Ejercicios del tema de creación de infraestructuras virtuales reproducibles](https://github.com/harvestcore/CCExercises/blob/master/exercises/virtual_infra.md)
