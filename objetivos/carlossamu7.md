@@ -222,7 +222,7 @@
 
 [Ejercicios Tema 6](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema6.md)
 
-# Objetivos de la décimotercera (11 de enero de 2020)
+# Objetivos de la décimo tercera semana (11 de enero de 2020)
 
 - [x] Entender los requisitos necesarios para desplegar una aplicación, más allá del código en sí.
 - [x] Entender la diferencia entre "desarrollo" y "producción" en las fases de desarrollo del mismo
@@ -236,3 +236,54 @@
 - [x] Entender errores frecuentes en la entrega.
     - Arrancar el microservicio. Se recuerda que únicamente se tienen que testear las rutas, en principio no sería necesario arrancar el microservicio.
 - [x] Instalar [podman](https://podman.io).
+
+# Objetivos de la décimo cuarta semana (18 de enero de 2020)
+
+- [x] Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x] Entender cómo se configura un pod o cluster
+- [x] Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x] Saber qué servicios son imprescindibles en un pod o clúster.
+
+## Otros objetivos
+
+- [x] [Entender cómo usar podman para creación de pods](http://jj.github.io/CC/documentos/temas/Composicion_de_contenedores)
+- [x] [Ejemplos adicionales de docker compose con servicios](http://jj.github.io/CC/documentos/temas/Composicion_de_contenedores#composici%C3%B3n-de-servicios-con-docker-compose) y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega.
+  - Dockerfile es una extensión. Dockerfile_execute:
+    incorrecto. execute.Dockerfile: correcto.
+  - Sobre el API
+    - Debería enlazarse explícitamente cada ruta a qué HU corresponde.
+    - Los verbos en el API, en general, sobran *si se actúa sobre un URI*. Los únicos verbos que hacen falta en principio son los de HTTP. Pueden usarse verbos adicionales si es que se van a devolver muchos recursos, pero no sobre uno solo.
+    - Los URIs deben ser plural; así se evitan cosas como tener que usar un path adicional para recuperar todos los URIs. `GET /recursos/3` sería un URI, `GET /recursos` devolvería todos los recursos.
+    - Evitar el nombre de la aplicación en las rutas del API. O la palabra "api". Peor todavía si todas las rutas lo usan *como segundo elemento del path* en vez de el primero.
+    - Tratar de evitar los códigos de estado "raros" como "No content". Si una cosa no existe, no es que no tenga contenido, es que debe devolver un 404.
+    - Cada comando tiene su especificidad. PUT y POST no pueden hacer exactamente lo mismo, por ejemplo: POST modificaría sólo parte de un recurso. Código redundante no ayuda a nada.
+  - Sobre la configuración
+    - Poner a jopo los puertos o cualquier otro valor de configuración es un error bastante grande.
+
+# Objetivos de la décimo quinta semana (25 de enero de 2020)
+
+- [x] Entender los conceptos de medición de prestaciones... de nuevo.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+
+## Otros objetivos
+
+- [x] Ponerse al día en la entrega de hitos anteriores.
+- [x] [Entender los sistemas de configuración, incluyendo los interfaces comunes](http://jj.github.io/CC/documentos/temas/Configuracion_microservicios).
+- [x] [Repaso al concepto de REST](http://jj.github.io/CC/documentos/temas/REST) entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+
+[Ejercicios Tema 7](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema7.md)
+
+# Objetivos de la décimo sexta semana (1 de febrero de 2020)
+
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+
+# Objetivos adicionales
+
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+- [x] Entender qué es HCL (Hashicorp Control language).
+- [x] Resolver problemas que hayan surgido para el último hito.
+- [x] Entender la convocatoria extraordinaria.
