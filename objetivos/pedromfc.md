@@ -182,3 +182,44 @@
 - [x] Instalar podman.
 
 [Ejercicios tema microservicios II](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%2011-12)
+
+
+# Objetivos de la décimo cuarta semana
+
+- [x]  Comprender los caso de uso de sistemas de composición de servicios básicos.
+- [x]  Entender cómo se configura un pod o cluster
+- [x]  Configurar las aplicaciones para que formen parte de un cluster con servicios.
+- [x]  Saber qué servicios son imprescindibles en un pod o clúster.
+
+### Otros objetivos
+
+- [x] Entender cómo usar podman para creación de pods
+- [x] Ejemplos adicionales de docker compose con servicios y testeo del mismo.
+- [x] Entender errores frecuentes en la entrega.
+
+# Objetivos de la décimo quinta semana
+
+- [x]  Entender los conceptos de medición de prestaciones.
+
+### Otros objetivos
+
+- [ ] Ponerse al día en la entrega de hitos anteriores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x]  Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+
+# Objetivos de la décimo sexta semana
+
+- [x]  Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x]   Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+
+### Otros objetivos
+
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+- [x] Entender qué es HCL (Hashicorp Control language).
+- [x] Resolver problemas que hayan surgido para el último hito.
+- [x] Entender la convocatoria extraordinaria.
+
+
+[Ejercicios tema composición](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%2014-16)
