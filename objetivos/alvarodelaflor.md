@@ -117,3 +117,12 @@ Se ha realizado un estudio de las direrentes alternativas para el uso de API RES
 - [x] Saber qué servicios son imprescindibles en un pod o clúster.
 
 [Ejercicio tema 6 primera parte](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%206:%20Composici%C3%B3n%20de%20Servicios/tema6.md)
+
+# Objetivos de la décimo quinta semana
+
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] Crear infraestructuras virtuales completas.
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+
+[Ejercicio tema 6 segunda parte](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%206:%20Composici%C3%B3n%20de%20Servicios/ejercicios_2.md)
