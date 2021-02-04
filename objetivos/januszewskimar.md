@@ -209,3 +209,30 @@ Los ejercicios del tema 6 se pueden consultar [aquí](https://github.com/janusze
 - [x] Entender errores frecuentes en la entrega.
 
 Los ejercicios del tema 7 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md).
+
+# Décimo quinta semana
+
+- [x] Entender los conceptos de medición de prestaciones... de nuevo.
+- [x] Aplicar a casos específicos los clústers de contenedores.
+
+## Otros objetivos
+
+- [x] Ponerse al día en la entrega de hitos anteriores.
+- [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
+- [x] Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
+- [x] Instalar consul, otro sistema de configuración distribuida.
+
+# Décimo sexta semana
+
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+
+## Otros objetivos
+
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+- [x] Entender qué es HCL (Hashicorp Control language).
+- [x] Resolver problemas que hayan surgido para el último hito.
+- [x] Entender la convocatoria extraordinaria.
+
+Los ejercicios del tema 7 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md#ejercicio-1).
