@@ -248,6 +248,26 @@
 - [x] Entender los sistemas de configuración, incluyendo los interfaces comunes.
 - [x] Repaso al concepto de REST entender el concepto de recurso y cómo usarlo en este contexto. Algunos estados interesantes.
 - [x] Instalar consul, otro sistema de configuración distribuida.
+
+---
+
+## Objetivos de la décimo sexta semana (01 de febrero de 2020)
+
+
+- [x] Recapitular sobre la misma y entender de forma integral el diseño, prueba y despliegue de aplicaciones en la nube.
+- [x] Entender cómo estas técnicas se pueden aplicar en el resto de las asignaturas, TFM y en el mundo real.
+
+
+## Otros objetivos
+
+- [x] Entender la utilidad y casos de uso de las herramientas que se han usado y como y cuando se tienen que poner en práctica.
+- [x] Entender la metodología de "aprender haciendo".
+- [x] Entender qué es HCL (Hashicorp Control language).
+- [x] Resolver problemas que hayan surgido para el último hito.
+- [x] Entender la convocatoria extraordinaria.
+
+
+
 ---
 
 
@@ -262,6 +282,8 @@
 - [Ejercicios Tema 4: Integración continua](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema4.md)
  
 - [Ejercicios Tema 6: Microservicios](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema6.md)
+  
+  - [Configuración de microservicios](Ejercicios/Tema6.md#configuración-de-microservicios)
 
 - [Ejercicios Tema 7: Composición de servicios](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema7.md)
 
