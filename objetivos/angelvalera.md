@@ -265,6 +265,7 @@
 - [x] Entender qué es HCL (Hashicorp Control language).
 - [x] Resolver problemas que hayan surgido para el último hito.
 - [x] Entender la convocatoria extraordinaria.
+- [x] Actualizar [objetivos](https://github.com/JJ/CC-20-21/pull/520) de la última semana .
 
 
 
