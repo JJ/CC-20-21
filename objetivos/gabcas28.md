@@ -86,3 +86,17 @@
 - [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
 [Ejercicios tema 5](https://github.com/GabCas28/Exercises-CC/tree/main/Chapter5)
+
+## Objetivos del sexto tema - Docker Compose
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Optimizar aplicaciones sobre plataformas virtuales.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] Crear infraestructuras virtuales completas.
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+[Ejercicios tema 6](https://github.com/GabCas28/Exercises-CC/tree/main/Chapter6)
