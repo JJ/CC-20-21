@@ -84,3 +84,10 @@
 - [x] [Ejercicios tema de Integración Continua](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema4.md).
 - [x] Creando una rama "tests" para correr los tests de entregas en mi repositorio
 - [x] vamos a ver si pasan los tests, añado un [enlace a la rama de prueba](https://github.com/Neo-Stark/CC-20-21/tree/tests)
+
+## He perdido la cuenta que semana es ya
+
+- [x] Construir y documentar los endpoints de la API [Documentación](https://documenter.getpostman.com/view/9052678/TWDTNeni)
+- [x] Usar Postman para testear las rutas de la aplicación
+- [x] Aprender a generar documentación de APIs REST con Postman
+- [x] Algunos ejercicios hechos. [Ejercicios](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema5.md)
