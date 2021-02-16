@@ -235,4 +235,5 @@ Los ejercicios del tema 7 se pueden consultar [aquí](https://github.com/janusze
 - [x] Resolver problemas que hayan surgido para el último hito.
 - [x] Entender la convocatoria extraordinaria.
 
-Los ejercicios del tema 7 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md#ejercicio-1).
+El primer ejercicio del tema 7 se puede consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md#ejercicio-1).
+El segundo ejercicio del tema 7 se puede consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-7.md#ejercicio-2).
