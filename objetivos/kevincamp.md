@@ -8,3 +8,16 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo. 
 [Ejercicios Tema  1](https://github.com/Kevincamp/CC-20-21-Exercises/blob/main/01.md)
+
+# Objetivos a cubrir en la segunda semana
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+# Objetivos a cubrir en la tercera semana
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender la diferencia entre gestor de tareas, gestor de dependencias, build tool. 
+
+[Ejercicios Tema 2](https://github.com/Kevincamp/CC-20-21-Exercises/blob/main/02.md)
