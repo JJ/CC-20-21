@@ -15,4 +15,5 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios Arquitectura de software](https://github.com/CharlySM/cc1/blob/main/ejercicios/tema1/ejercicios.md)
-[Ejercicios ](https://github.com/CharlySM/cc1/tree/main/ejercicios)
+[Ejercicios](https://github.com/CharlySM/cc1/tree/main/ejercicios)
+[Ejercicios2](https://github.com/CharlySM/cc1/tree/main/ejercicios)
